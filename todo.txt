@@ -1,0 +1,4 @@
+Keep punctuation when processing texts
+Use smaller character spans to increase number of texts
+Reread related papers
+Maybe use fewer eras (or more eras/pinpointing metrics with successful results)
