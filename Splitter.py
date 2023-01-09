@@ -5,13 +5,13 @@ import re
 
 def RegEX(string):
     file_1_str = re.sub(r"[([{})]]", "", string) #removing brackets
-    file_1_str = re.sub("\d+", "", file_1_str) #removing numbers
+    #file_1_str = re.sub("\d+", "", file_1_str) #removing numbers
     file_1_str = re.sub(r"\s+", " ", file_1_str)#removing tabs
-    file_1_str = re.sub(r'[^\w\s]', '', file_1_str)#remove punc
+    #file_1_str = re.sub(r'[^\w\s]', '', file_1_str)#remove punc
     return re.sub('\u0304', '', file_1_str)
 
-
-data= pd.read_csv('LatLibDates-Filtered.csv', encoding= 'latin_1')
+#Change to smaller chunks/upsampled dates csv file
+data= pd.read_csv('LatLibDates-Balanced.csv', encoding= 'latin_1')
 
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
