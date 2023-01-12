@@ -1,7 +1,7 @@
-import numpy as np
-import pandas as pd
 import os
 import re
+import pandas as pd
+
 
 def RegEX(string):
     file_1_str = re.sub(r"[([{})]]", "", string) #removing brackets
@@ -11,7 +11,7 @@ def RegEX(string):
     return re.sub('\u0304', '', file_1_str)
 
 #Change to smaller chunks/upsampled dates csv file
-data= pd.read_csv('LatLibDates-Balanced.csv', encoding= 'latin_1')
+data= pd.read_csv('LatLibDates-Filtered.csv', encoding= 'latin_1')
 
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
@@ -40,18 +40,18 @@ for i in range(len(texts)):
         texts[i] = New_texts[100:]
         os.chdir('..')
         # print(f"Sub{i}")
-    else:  
+    else:
         with open(texts[i],'r') as f:
             New_texts = f.read()
             texts[i] = New_texts[100:]
         # print(f"YEE{i}")
 UWU = []
 for i in range(len(texts)):
-    texts[i] = RegEX(texts[i]) 
+    texts[i] = RegEX(texts[i])
 
 for i in range(len(Names)):
-    Names[i] = Names[i].replace('/','') 
-os.chdir('/home/paul/DeepL/Final2/Final-LatLib')
+    Names[i] = Names[i].replace('/','')
+os.chdir('/home/sittch/Spring 2023/DLT2/LatLib_100char')
 for i in range(len(texts)):
     if len(texts[i]) >= 10000:
         # print(Names[i])
@@ -67,12 +67,10 @@ for i in range(len(texts)):
         with open(f"{Names[i]}.txt", "w") as text_file:
             print(texts[i], file=text_file)
         UWU.append(f"{Names[i]}.txt")
-    
 
 
 # import csv
-with open(os.path.join('/home/paul/DeepL/Final2','Final_Rank.csv'),'w') as f:
+with open(os.path.join('/home/sittch/Spring 2023/DLT2','Final_Rank.csv'),'w') as f:
     for line in UWU:
         f.write(line)
         f.write('\n')
-
