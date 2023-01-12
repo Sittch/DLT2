@@ -82,6 +82,7 @@ asconius.txt_6.txt
 asconius.txt_7.txt
 asconius.txt_8.txt
 asconius.txt_9.txt
+asconius.txt_10.txt
 aus.mos.txt_0.txt
 aus.mos.txt_1.txt
 aus.sept.sent.txt.txt
@@ -94,6 +95,7 @@ avienus.periegesis.txt_1.txt
 avienus.periegesis.txt_2.txt
 avienus.periegesis.txt_3.txt
 avienus.periegesis.txt_4.txt
+avienus.periegesis.txt_5.txt
 axio.txt_0.txt
 balbus.txt_0.txt
 balde1.txt.txt
@@ -110,6 +112,7 @@ bebel.txt_8.txt
 bebel.txt_9.txt
 bebel.txt_10.txt
 bebel.txt_11.txt
+bebel.txt_12.txt
 benedict.txt_0.txt
 benedict.txt_1.txt
 benedict.txt_2.txt
@@ -118,6 +121,7 @@ benedict.txt_4.txt
 benedict.txt_5.txt
 benedict.txt_6.txt
 benedict.txt_7.txt
+benedict.txt_8.txt
 berengar.txt_0.txt
 berengar.txt_1.txt
 berengar.txt_2.txt
@@ -126,6 +130,7 @@ bernardcluny1.txt_1.txt
 bernardcluny1.txt_2.txt
 bernardcluny1.txt_3.txt
 bernardcluny1.txt_4.txt
+bernardcluny1.txt_5.txt
 bernardcluny2.txt_0.txt
 bernardcluny2.txt_1.txt
 bernardcluny2.txt_2.txt
@@ -139,6 +144,7 @@ blesensis.txt_0.txt
 blesensis.txt_1.txt
 blesensis.txt_2.txt
 blesensis.txt_3.txt
+blesensis.txt_4.txt
 bonaventura.itinerarium.txt_0.txt
 bonaventura.itinerarium.txt_1.txt
 bonaventura.itinerarium.txt_2.txt
@@ -176,6 +182,7 @@ censorinus.txt_2.txt
 censorinus.txt_3.txt
 censorinus.txt_4.txt
 censorinus.txt_5.txt
+censorinus.txt_6.txt
 cinna.txt.txt
 claud.inscr.txt.txt
 clitophon.txt.txt
@@ -215,6 +222,7 @@ egeria1.txt_1.txt
 egeria1.txt_2.txt
 egeria1.txt_3.txt
 egeria1.txt_4.txt
+egeria1.txt_5.txt
 egeria2.txt_0.txt
 egeria2.txt_1.txt
 egeria2.txt_2.txt
@@ -245,6 +253,7 @@ ency.fides.txt_16.txt
 ency.fides.txt_17.txt
 ency.fides.txt_18.txt
 ency.fides.txt_19.txt
+ency.fides.txt_20.txt
 enn.txt.txt
 ennodius.txt_0.txt
 ennodius.txt_1.txt
@@ -278,8 +287,10 @@ eugippius.txt_6.txt
 eugippius.txt_7.txt
 exivi.txt_0.txt
 exivi.txt_1.txt
+exivi.txt_2.txt
 fabe.txt_0.txt
 fabe.txt_1.txt
+fabe.txt_2.txt
 falcandus.txt_0.txt
 falcandus.txt_1.txt
 falcandus.txt_2.txt
@@ -305,6 +316,7 @@ falcandus.txt_21.txt
 falcandus.txt_22.txt
 falcandus.txt_23.txt
 falcandus.txt_24.txt
+falcandus.txt_25.txt
 falcone.txt_0.txt
 falcone.txt_1.txt
 falcone.txt_2.txt
@@ -330,12 +342,15 @@ falcone.txt_21.txt
 falcone.txt_22.txt
 falcone.txt_23.txt
 falcone.txt_24.txt
+falcone.txt_25.txt
+falcone.txt_26.txt
 ferraria.txt_0.txt
 ficino.txt_0.txt
 ficino.txt_1.txt
 fletcher.txt_0.txt
 fletcher.txt_1.txt
 fletcher.txt_2.txt
+fletcher.txt_3.txt
 florus1.txt_0.txt
 florus1.txt_1.txt
 florus1.txt_2.txt
@@ -407,12 +422,17 @@ fronto.txt_25.txt
 fronto.txt_26.txt
 fronto.txt_27.txt
 fronto.txt_28.txt
+fronto.txt_29.txt
+fronto.txt_30.txt
+fronto.txt_31.txt
+fronto.txt_32.txt
 fulbert.txt.txt
 gaius1.txt_0.txt
 gaius1.txt_1.txt
 gaius1.txt_2.txt
 gaius1.txt_3.txt
 gaius1.txt_4.txt
+gaius1.txt_5.txt
 gaius2.txt_0.txt
 gaius2.txt_1.txt
 gaius2.txt_2.txt
@@ -457,6 +477,7 @@ gestarom.txt_5.txt
 gestarom.txt_6.txt
 gestarom.txt_7.txt
 gestarom.txt_8.txt
+gestarom.txt_9.txt
 gioacchino.txt_0.txt
 gioacchino.txt_1.txt
 gioacchino.txt_2.txt
@@ -558,6 +579,8 @@ gregdecretals1.txt_75.txt
 gregdecretals1.txt_76.txt
 gregdecretals1.txt_77.txt
 gregdecretals1.txt_78.txt
+gregdecretals1.txt_79.txt
+gregdecretals1.txt_80.txt
 gregdecretals2.txt_0.txt
 gregdecretals2.txt_1.txt
 gregdecretals2.txt_2.txt
@@ -582,6 +605,7 @@ gregdecretals2.txt_20.txt
 gregdecretals2.txt_21.txt
 gregdecretals2.txt_22.txt
 gregdecretals2.txt_23.txt
+gregdecretals2.txt_24.txt
 gregdecretals3.txt_0.txt
 gregdecretals3.txt_1.txt
 gregdecretals3.txt_2.txt
@@ -649,6 +673,8 @@ gregdecretals3.txt_63.txt
 gregdecretals3.txt_64.txt
 gregdecretals3.txt_65.txt
 gregdecretals3.txt_66.txt
+gregdecretals3.txt_67.txt
+gregdecretals3.txt_68.txt
 gregdecretals4.txt_0.txt
 gregdecretals4.txt_1.txt
 gregdecretals4.txt_2.txt
@@ -670,6 +696,7 @@ gregdecretals4.txt_17.txt
 gregdecretals4.txt_18.txt
 gregdecretals4.txt_19.txt
 gregdecretals4.txt_20.txt
+gregdecretals4.txt_21.txt
 gregdecretals5.txt_0.txt
 gregdecretals5.txt_1.txt
 gregdecretals5.txt_2.txt
@@ -734,6 +761,8 @@ gregdecretals5.txt_60.txt
 gregdecretals5.txt_61.txt
 gregdecretals5.txt_62.txt
 gregdecretals5.txt_63.txt
+gregdecretals5.txt_64.txt
+gregdecretals5.txt_65.txt
 gregory7.txt_0.txt
 gregory7.txt_1.txt
 gregory7.txt_2.txt
@@ -748,11 +777,13 @@ gregory7.txt_10.txt
 gwinne1.txt_0.txt
 gwinne1.txt_1.txt
 gwinne1.txt_2.txt
+gwinne1.txt_3.txt
 gwinne2.txt_0.txt
 gwinne2.txt_1.txt
 gwinne3.txt_0.txt
 gwinne3.txt_1.txt
 gwinne3.txt_2.txt
+gwinne3.txt_3.txt
 gwinne4.txt_0.txt
 gwinne4.txt_1.txt
 gwinne4.txt_2.txt
@@ -811,9 +842,11 @@ hrabanus.txt.txt
 hydatiuschronicon.txt_0.txt
 hydatiuschronicon.txt_1.txt
 hydatiuschronicon.txt_2.txt
+hydatiuschronicon.txt_3.txt
 hydatiusfasti.txt_0.txt
 hydatiusfasti.txt_1.txt
 hydatiusfasti.txt_2.txt
+hydatiusfasti.txt_3.txt
 iabervocius.txt.txt
 iamdulcis.txt.txt
 ilias.txt_0.txt
@@ -829,6 +862,7 @@ innocent1.txt_5.txt
 innocent1.txt_6.txt
 innocent1.txt_7.txt
 innocent1.txt_8.txt
+innocent1.txt_9.txt
 innocent2.txt_0.txt
 innocent2.txt_1.txt
 inquisitio.txt_0.txt
@@ -859,6 +893,7 @@ iordanes2.txt_8.txt
 iordanes2.txt_9.txt
 iordanes2.txt_10.txt
 iordanes2.txt_11.txt
+iordanes2.txt_12.txt
 janus1.txt_0.txt
 janus2.txt.txt
 jfkhonor.txt.txt
@@ -869,12 +904,14 @@ johannes.txt_3.txt
 johannes.txt_4.txt
 johannes.txt_5.txt
 johannes.txt_6.txt
+johannes.txt_7.txt
 junillus.txt_0.txt
 junillus.txt_1.txt
 junillus.txt_2.txt
 junillus.txt_3.txt
 junillus.txt_4.txt
 junillus.txt_5.txt
+junillus.txt_6.txt
 kalila.txt_0.txt
 kalila.txt_1.txt
 kalila.txt_2.txt
@@ -912,6 +949,7 @@ leo2.txt_2.txt
 leo3.txt_0.txt
 leo3.txt_1.txt
 leo3.txt_2.txt
+leo3.txt_3.txt
 letabundus.txt.txt
 levis.txt.txt
 lhomond.historiae.txt_0.txt
@@ -936,6 +974,7 @@ lhomond.viris.txt_15.txt
 lhomond.viris.txt_16.txt
 lhomond.viris.txt_17.txt
 lhomond.viris.txt_18.txt
+lhomond.viris.txt_19.txt
 lotichius.txt.txt
 luther.95.txt_0.txt
 luther.lteramus.txt.txt
@@ -952,6 +991,7 @@ malaterra1.txt_1.txt
 malaterra1.txt_2.txt
 malaterra1.txt_3.txt
 malaterra1.txt_4.txt
+malaterra1.txt_5.txt
 malaterra2.txt_0.txt
 malaterra2.txt_1.txt
 malaterra2.txt_2.txt
@@ -966,6 +1006,7 @@ malaterra3.txt_2.txt
 malaterra3.txt_3.txt
 malaterra3.txt_4.txt
 malaterra3.txt_5.txt
+malaterra3.txt_6.txt
 malaterra4.txt_0.txt
 malaterra4.txt_1.txt
 malaterra4.txt_2.txt
@@ -990,7 +1031,7 @@ manilius4.txt_3.txt
 manilius5.txt_0.txt
 manilius5.txt_1.txt
 manilius5.txt_2.txt
-mapps1.txt.txt
+mapps1.txt_0.txt
 mapps2.txt_0.txt
 marbodus.txt_0.txt
 marcellinus1.txt_0.txt
@@ -1019,6 +1060,7 @@ minucius.txt_3.txt
 minucius.txt_4.txt
 minucius.txt_5.txt
 minucius.txt_6.txt
+minucius.txt_7.txt
 mirabilia.txt_0.txt
 mirabilia.txt_1.txt
 mirabilia.txt_2.txt
@@ -1044,6 +1086,7 @@ more.txt_14.txt
 more.txt_15.txt
 more.txt_16.txt
 more.txt_17.txt
+more.txt_18.txt
 musavenit.txt.txt
 naevius.txt.txt
 navagero.txt_0.txt
@@ -1057,7 +1100,7 @@ nemesianus4.txt.txt
 newton.capita.txt.txt
 newton.leges.txt.txt
 newton.regulae.txt.txt
-newton.scholium.txt.txt
+newton.scholium.txt_0.txt
 nithardus1.txt_0.txt
 nithardus2.txt_0.txt
 nithardus2.txt_1.txt
@@ -1125,10 +1168,12 @@ paulinus.poemata.txt_12.txt
 paulinus.poemata.txt_13.txt
 paulinus.poemata.txt_14.txt
 paulinus.poemata.txt_15.txt
+paulinus.poemata.txt_16.txt
 perp.txt_0.txt
 perp.txt_1.txt
 persius.txt_0.txt
 persius.txt_1.txt
+persius.txt_2.txt
 petrarch.ep1.txt.txt
 petrarch.numa.txt.txt
 petrarch.rom.txt_0.txt
@@ -1146,6 +1191,7 @@ petrarchmedicus.txt_10.txt
 petrarchmedicus.txt_11.txt
 petrarchmedicus.txt_12.txt
 petrarchmedicus.txt_13.txt
+petrarchmedicus.txt_14.txt
 petronius1.txt_0.txt
 petronius1.txt_1.txt
 petronius1.txt_2.txt
@@ -1166,6 +1212,7 @@ petronius1.txt_16.txt
 petronius1.txt_17.txt
 petronius1.txt_18.txt
 petronius1.txt_19.txt
+petronius1.txt_20.txt
 petroniusfrag.txt.txt
 phaedr1.txt_0.txt
 phaedr2.txt.txt
@@ -1195,6 +1242,7 @@ pliny.ep10.txt_2.txt
 pliny.ep10.txt_3.txt
 pliny.ep10.txt_4.txt
 pliny.ep10.txt_5.txt
+pliny.ep10.txt_6.txt
 pliny.ep2.txt_0.txt
 pliny.ep2.txt_1.txt
 pliny.ep2.txt_2.txt
@@ -1237,6 +1285,7 @@ pliny.nh1.txt_6.txt
 pliny.nh1.txt_7.txt
 pliny.nh1.txt_8.txt
 pliny.nh1.txt_9.txt
+pliny.nh1.txt_10.txt
 pliny.nh2.txt_0.txt
 pliny.nh2.txt_1.txt
 pliny.nh2.txt_2.txt
@@ -1248,6 +1297,7 @@ pliny.nh2.txt_7.txt
 pliny.nh2.txt_8.txt
 pliny.nh2.txt_9.txt
 pliny.nh2.txt_10.txt
+pliny.nh2.txt_11.txt
 pliny.nh3.txt_0.txt
 pliny.nh3.txt_1.txt
 pliny.nh3.txt_2.txt
@@ -1288,12 +1338,15 @@ poggio.txt_5.txt
 poggio.txt_6.txt
 poggio.txt_7.txt
 poggio.txt_8.txt
+poggio.txt_9.txt
 pomponius1.txt_0.txt
 pomponius1.txt_1.txt
 pomponius1.txt_2.txt
+pomponius1.txt_3.txt
 pomponius2.txt_0.txt
 pomponius2.txt_1.txt
 pomponius2.txt_2.txt
+pomponius2.txt_3.txt
 pomponius3.txt_0.txt
 pomponius3.txt_1.txt
 pomponius3.txt_2.txt
@@ -1319,6 +1372,7 @@ prop2.txt_4.txt
 prop3.txt_0.txt
 prop3.txt_1.txt
 prop3.txt_2.txt
+prop3.txt_3.txt
 prop4.txt_0.txt
 prop4.txt_1.txt
 prop4.txt_2.txt
@@ -1344,7 +1398,7 @@ psplato.eryxias.txt_2.txt
 psplato.halcyon.txt.txt
 psplato.iusto.txt.txt
 psplato.minos.txt_0.txt
-psplato.sisyphus.txt.txt
+psplato.sisyphus.txt_0.txt
 psplato.virtu.txt.txt
 quum.txt.txt
 raoul.txt_0.txt
@@ -1372,9 +1426,11 @@ raoul.txt_21.txt
 raoul.txt_22.txt
 raoul.txt_23.txt
 raoul.txt_24.txt
+raoul.txt_25.txt
 regula.txt_0.txt
 regula.txt_1.txt
 regula.txt_2.txt
+regula.txt_3.txt
 reposianus.txt.txt
 resgestae.txt_0.txt
 resgestae1.txt_0.txt
@@ -1393,6 +1449,7 @@ richerus2.txt_5.txt
 richerus2.txt_6.txt
 richerus2.txt_7.txt
 richerus2.txt_8.txt
+richerus2.txt_9.txt
 richerus3.txt_0.txt
 richerus3.txt_1.txt
 richerus3.txt_2.txt
@@ -1444,9 +1501,10 @@ sall.2.txt_10.txt
 sall.2.txt_11.txt
 sall.2.txt_12.txt
 sall.2.txt_13.txt
+sall.2.txt_14.txt
 sall.cotta.txt.txt
 sall.ep1.txt_0.txt
-sall.ep2.txt.txt
+sall.ep2.txt_0.txt
 sall.frag.txt_0.txt
 sall.frag.txt_1.txt
 sall.frag.txt_2.txt
@@ -1476,6 +1534,7 @@ sedulius2.txt_0.txt
 sedulius3.txt_0.txt
 sedulius4.txt_0.txt
 sedulius5.txt_0.txt
+sedulius5.txt_1.txt
 seneca.contr1.txt_0.txt
 seneca.contr1.txt_1.txt
 seneca.contr1.txt_2.txt
@@ -1487,6 +1546,7 @@ seneca.contr1.txt_7.txt
 seneca.contr1.txt_8.txt
 seneca.contr1.txt_9.txt
 seneca.contr1.txt_10.txt
+seneca.contr1.txt_11.txt
 seneca.contr10.txt_0.txt
 seneca.contr10.txt_1.txt
 seneca.contr10.txt_2.txt
@@ -1505,6 +1565,7 @@ seneca.contr2.txt_6.txt
 seneca.contr2.txt_7.txt
 seneca.contr2.txt_8.txt
 seneca.contr2.txt_9.txt
+seneca.contr2.txt_10.txt
 seneca.contr3.txt_0.txt
 seneca.contr3.txt_1.txt
 seneca.contr4.txt_0.txt
@@ -1592,12 +1653,14 @@ solinus1.txt_1.txt
 solinus1.txt_2.txt
 solinus1.txt_3.txt
 solinus1.txt_4.txt
+solinus1.txt_5.txt
 solinus1a.txt_0.txt
 solinus1a.txt_1.txt
 solinus1a.txt_2.txt
 solinus1a.txt_3.txt
 solinus1a.txt_4.txt
 solinus1a.txt_5.txt
+solinus1a.txt_6.txt
 solinus2.txt_0.txt
 solinus2.txt_1.txt
 solinus2.txt_2.txt
@@ -1629,6 +1692,7 @@ solinus4a.txt_1.txt
 solinus4a.txt_2.txt
 solinus4a.txt_3.txt
 solinus4a.txt_4.txt
+solinus4a.txt_5.txt
 solinus5.txt_0.txt
 solinus5.txt_1.txt
 solinus5.txt_2.txt
@@ -1652,6 +1716,7 @@ solinus5.txt_19.txt
 solinus5.txt_20.txt
 solinus5.txt_21.txt
 solinus5.txt_22.txt
+solinus5.txt_23.txt
 spinoza.ethica1.txt_0.txt
 spinoza.ethica1.txt_1.txt
 spinoza.ethica1.txt_2.txt
@@ -1667,6 +1732,7 @@ spinoza.ethica2.txt_4.txt
 spinoza.ethica2.txt_5.txt
 spinoza.ethica2.txt_6.txt
 spinoza.ethica2.txt_7.txt
+spinoza.ethica2.txt_8.txt
 spinoza.ethica3.txt_0.txt
 spinoza.ethica3.txt_1.txt
 spinoza.ethica3.txt_2.txt
@@ -1703,6 +1769,7 @@ sulpiciusseveruschron1.txt_4.txt
 sulpiciusseveruschron1.txt_5.txt
 sulpiciusseveruschron1.txt_6.txt
 sulpiciusseveruschron1.txt_7.txt
+sulpiciusseveruschron1.txt_8.txt
 sulpiciusseveruschron2.txt_0.txt
 sulpiciusseveruschron2.txt_1.txt
 sulpiciusseveruschron2.txt_2.txt
@@ -1737,6 +1804,7 @@ ter.eunuchus.txt_1.txt
 ter.eunuchus.txt_2.txt
 ter.eunuchus.txt_3.txt
 ter.eunuchus.txt_4.txt
+ter.eunuchus.txt_5.txt
 ter.heauton.txt_0.txt
 ter.heauton.txt_1.txt
 ter.heauton.txt_2.txt
@@ -1786,6 +1854,7 @@ valeriusflaccus1.txt_1.txt
 valeriusflaccus1.txt_2.txt
 valeriusflaccus2.txt_0.txt
 valeriusflaccus2.txt_1.txt
+valeriusflaccus2.txt_2.txt
 valeriusflaccus3.txt_0.txt
 valeriusflaccus3.txt_1.txt
 valeriusflaccus3.txt_2.txt
@@ -1800,6 +1869,7 @@ valeriusflaccus6.txt_1.txt
 valeriusflaccus6.txt_2.txt
 valeriusflaccus7.txt_0.txt
 valeriusflaccus7.txt_1.txt
+valeriusflaccus7.txt_2.txt
 valeriusflaccus8.txt_0.txt
 valeriusflaccus8.txt_1.txt
 valmax1.txt_0.txt
@@ -1807,6 +1877,7 @@ valmax1.txt_1.txt
 valmax1.txt_2.txt
 valmax1.txt_3.txt
 valmax1.txt_4.txt
+valmax1.txt_5.txt
 valmax2.txt_0.txt
 valmax2.txt_1.txt
 valmax2.txt_2.txt
@@ -1865,9 +1936,11 @@ varro.ll5.txt_2.txt
 varro.ll5.txt_3.txt
 varro.ll5.txt_4.txt
 varro.ll5.txt_5.txt
+varro.ll5.txt_6.txt
 varro.ll6.txt_0.txt
 varro.ll6.txt_1.txt
 varro.ll6.txt_2.txt
+varro.ll6.txt_3.txt
 varro.ll7.txt_0.txt
 varro.ll7.txt_1.txt
 varro.ll7.txt_2.txt
@@ -1893,6 +1966,7 @@ varro.rr2.txt_2.txt
 varro.rr2.txt_3.txt
 varro.rr2.txt_4.txt
 varro.rr2.txt_5.txt
+varro.rr2.txt_6.txt
 varro.rr3.txt_0.txt
 varro.rr3.txt_1.txt
 varro.rr3.txt_2.txt
@@ -1949,6 +2023,7 @@ vicentius.txt_7.txt
 vicentius.txt_8.txt
 vicentius.txt_9.txt
 vicentius.txt_10.txt
+vicentius.txt_11.txt
 vico.orat6.txt_0.txt
 vico.orat6.txt_1.txt
 victor.caes.txt_0.txt
@@ -1958,6 +2033,7 @@ victor.caes.txt_3.txt
 victor.caes.txt_4.txt
 victor.caes.txt_5.txt
 victor.caes.txt_6.txt
+victor.caes.txt_7.txt
 victor.caes2.txt_0.txt
 victor.caes2.txt_1.txt
 victor.caes2.txt_2.txt
@@ -1975,6 +2051,7 @@ victor.origio.txt_1.txt
 victor.origio.txt_2.txt
 vida.txt_0.txt
 vida.txt_1.txt
+vida.txt_2.txt
 vitacaroli.txt_0.txt
 vitacaroli.txt_1.txt
 vitacaroli.txt_2.txt
@@ -1999,10 +2076,12 @@ vitruvius2.txt_0.txt
 vitruvius2.txt_1.txt
 vitruvius2.txt_2.txt
 vitruvius2.txt_3.txt
+vitruvius2.txt_4.txt
 vitruvius3.txt_0.txt
 vitruvius3.txt_1.txt
 vitruvius4.txt_0.txt
 vitruvius4.txt_1.txt
+vitruvius4.txt_2.txt
 vitruvius5.txt_0.txt
 vitruvius5.txt_1.txt
 vitruvius5.txt_2.txt
@@ -2017,6 +2096,7 @@ vitruvius7.txt_3.txt
 vitruvius8.txt_0.txt
 vitruvius8.txt_1.txt
 vitruvius8.txt_2.txt
+vitruvius8.txt_3.txt
 vitruvius9.txt_0.txt
 vitruvius9.txt_1.txt
 vitruvius9.txt_2.txt
@@ -2024,6 +2104,7 @@ vitruvius9.txt_3.txt
 volovirum.txt.txt
 waardenburg.txt.txt
 waltarius1.txt_0.txt
+waltarius1.txt_1.txt
 waltarius2.txt_0.txt
 waltarius2.txt_1.txt
 waltarius3.txt_0.txt
@@ -2058,6 +2139,7 @@ withof6.txt_0.txt
 withof6.txt_1.txt
 withof7.txt_0.txt
 withof7.txt_1.txt
+withof7.txt_2.txt
 wmconchesdogma.txt_0.txt
 wmconchesdogma.txt_1.txt
 wmconchesdogma.txt_2.txt
@@ -2066,6 +2148,7 @@ wmconchesdogma.txt_4.txt
 wmconchesdogma.txt_5.txt
 wmconchesdogma.txt_6.txt
 wmconchesdogma.txt_7.txt
+wmconchesdogma.txt_8.txt
 wmconchesphil.txt_0.txt
 wmconchesphil.txt_1.txt
 wmconchesphil.txt_2.txt
@@ -2094,6 +2177,7 @@ abelarddialogus.txt_14.txt
 abelarddialogus.txt_15.txt
 abelarddialogus.txt_16.txt
 abelarddialogus.txt_17.txt
+abelarddialogus.txt_18.txt
 abelardepistola.txt_0.txt
 abelardhistoria.txt_0.txt
 abelardhistoria.txt_1.txt
@@ -2143,9 +2227,11 @@ alanusalanus2.txt_14.txt
 alanusalanus2.txt_15.txt
 alanusalanus2.txt_16.txt
 alanusalanus2.txt_17.txt
+alanusalanus2.txt_18.txt
 albertanusalbertanus.arsloquendi.txt_0.txt
 albertanusalbertanus.arsloquendi.txt_1.txt
 albertanusalbertanus.arsloquendi.txt_2.txt
+albertanusalbertanus.arsloquendi.txt_3.txt
 albertanusalbertanus.liberconsol.txt_0.txt
 albertanusalbertanus.liberconsol.txt_1.txt
 albertanusalbertanus.liberconsol.txt_2.txt
@@ -2189,20 +2275,24 @@ albertanusalbertanus4.txt_0.txt
 albertanusalbertanus4.txt_1.txt
 albertanusalbertanus4.txt_2.txt
 albertanusalbertanus4.txt_3.txt
+albertanusalbertanus4.txt_4.txt
 albertofaixhist1.txt_0.txt
 albertofaixhist1.txt_1.txt
 albertofaixhist1.txt_2.txt
 albertofaixhist1.txt_3.txt
 albertofaixhist1.txt_4.txt
+albertofaixhist1.txt_5.txt
 albertofaixhist10.txt_0.txt
 albertofaixhist10.txt_1.txt
 albertofaixhist10.txt_2.txt
 albertofaixhist10.txt_3.txt
 albertofaixhist10.txt_4.txt
+albertofaixhist10.txt_5.txt
 albertofaixhist11.txt_0.txt
 albertofaixhist11.txt_1.txt
 albertofaixhist11.txt_2.txt
 albertofaixhist11.txt_3.txt
+albertofaixhist11.txt_4.txt
 albertofaixhist12.txt_0.txt
 albertofaixhist12.txt_1.txt
 albertofaixhist12.txt_2.txt
@@ -2285,6 +2375,7 @@ alcuinrhetorica.txt_2.txt
 alcuinrhetorica.txt_3.txt
 alcuinrhetorica.txt_4.txt
 alcuinrhetorica.txt_5.txt
+alcuinrhetorica.txt_6.txt
 alcuinsequentia.txt.txt
 alcuinversus.txt.txt
 ambroseepist.txt_0.txt
@@ -2307,6 +2398,7 @@ ambroseepistvaria.txt_15.txt
 ambroseepistvaria.txt_16.txt
 ambroseepistvaria.txt_17.txt
 ambroseepistvaria.txt_18.txt
+ambroseepistvaria.txt_19.txt
 ambrosehymns.txt.txt
 ambrosemysteriis.txt_0.txt
 ambrosemysteriis.txt_1.txt
@@ -2367,6 +2459,7 @@ ammianus25.txt_0.txt
 ammianus25.txt_1.txt
 ammianus25.txt_2.txt
 ammianus25.txt_3.txt
+ammianus25.txt_4.txt
 ammianus26.txt_0.txt
 ammianus26.txt_1.txt
 ammianus26.txt_2.txt
@@ -2385,6 +2478,7 @@ ammianus29.txt_1.txt
 ammianus29.txt_2.txt
 ammianus29.txt_3.txt
 ammianus29.txt_4.txt
+ammianus29.txt_5.txt
 ammianus30.txt_0.txt
 ammianus30.txt_1.txt
 ammianus30.txt_2.txt
@@ -2411,6 +2505,7 @@ apuleiusapuleius.apol.txt_11.txt
 apuleiusapuleius.apol.txt_12.txt
 apuleiusapuleius.apol.txt_13.txt
 apuleiusapuleius.apol.txt_14.txt
+apuleiusapuleius.apol.txt_15.txt
 apuleiusapuleius.cupid.txt_0.txt
 apuleiusapuleius.cupid.txt_1.txt
 apuleiusapuleius.cupid.txt_2.txt
@@ -2448,6 +2543,7 @@ apuleiusapuleius2.txt_1.txt
 apuleiusapuleius2.txt_2.txt
 apuleiusapuleius3.txt_0.txt
 apuleiusapuleius3.txt_1.txt
+apuleiusapuleius3.txt_2.txt
 apuleiusapuleius4.txt_0.txt
 apuleiusapuleius4.txt_1.txt
 apuleiusapuleius4.txt_2.txt
@@ -2551,6 +2647,7 @@ aquinasq1.42.txt_0.txt
 aquinasq1.42.txt_1.txt
 aquinasq1.43.txt_0.txt
 aquinasq1.43.txt_1.txt
+aquinasq1.43.txt_2.txt
 aquinasq1.44.txt_0.txt
 aquinasq1.45.txt_0.txt
 aquinasq1.45.txt_1.txt
@@ -2586,6 +2683,7 @@ aquinasq1.63.txt_0.txt
 aquinasq1.63.txt_1.txt
 aquinasq1.63.txt_2.txt
 aquinasq1.64.txt_0.txt
+aquinasq1.64.txt_1.txt
 aquinasq1.65.txt_0.txt
 aquinasq1.66.txt_0.txt
 aquinasq1.66.txt_1.txt
@@ -2633,6 +2731,7 @@ arnobiusarnobius4.txt_0.txt
 arnobiusarnobius4.txt_1.txt
 arnobiusarnobius4.txt_2.txt
 arnobiusarnobius4.txt_3.txt
+arnobiusarnobius4.txt_4.txt
 arnobiusarnobius5.txt_0.txt
 arnobiusarnobius5.txt_1.txt
 arnobiusarnobius5.txt_2.txt
@@ -2642,6 +2741,7 @@ arnobiusarnobius5.txt_5.txt
 arnobiusarnobius6.txt_0.txt
 arnobiusarnobius6.txt_1.txt
 arnobiusarnobius6.txt_2.txt
+arnobiusarnobius6.txt_3.txt
 arnobiusarnobius7.txt_0.txt
 arnobiusarnobius7.txt_1.txt
 arnobiusarnobius7.txt_2.txt
@@ -2659,6 +2759,7 @@ augustinecatechizandis.txt_5.txt
 augustinecatechizandis.txt_6.txt
 augustinecatechizandis.txt_7.txt
 augustinecatechizandis.txt_8.txt
+augustinecatechizandis.txt_9.txt
 augustineciv1.txt_0.txt
 augustineciv1.txt_1.txt
 augustineciv1.txt_2.txt
@@ -2682,12 +2783,14 @@ augustineciv11.txt_3.txt
 augustineciv11.txt_4.txt
 augustineciv11.txt_5.txt
 augustineciv11.txt_6.txt
+augustineciv11.txt_7.txt
 augustineciv12.txt_0.txt
 augustineciv12.txt_1.txt
 augustineciv12.txt_2.txt
 augustineciv12.txt_3.txt
 augustineciv12.txt_4.txt
 augustineciv12.txt_5.txt
+augustineciv12.txt_6.txt
 augustineciv13.txt_0.txt
 augustineciv13.txt_1.txt
 augustineciv13.txt_2.txt
@@ -2711,6 +2814,7 @@ augustineciv15.txt_5.txt
 augustineciv15.txt_6.txt
 augustineciv15.txt_7.txt
 augustineciv15.txt_8.txt
+augustineciv15.txt_9.txt
 augustineciv16.txt_0.txt
 augustineciv16.txt_1.txt
 augustineciv16.txt_2.txt
@@ -2768,6 +2872,7 @@ augustineciv20.txt_8.txt
 augustineciv20.txt_9.txt
 augustineciv20.txt_10.txt
 augustineciv20.txt_11.txt
+augustineciv20.txt_12.txt
 augustineciv21.txt_0.txt
 augustineciv21.txt_1.txt
 augustineciv21.txt_2.txt
@@ -2799,6 +2904,7 @@ augustineciv4.txt_2.txt
 augustineciv4.txt_3.txt
 augustineciv4.txt_4.txt
 augustineciv4.txt_5.txt
+augustineciv4.txt_6.txt
 augustineciv5.txt_0.txt
 augustineciv5.txt_1.txt
 augustineciv5.txt_2.txt
@@ -2811,6 +2917,7 @@ augustineciv6.txt_0.txt
 augustineciv6.txt_1.txt
 augustineciv6.txt_2.txt
 augustineciv6.txt_3.txt
+augustineciv6.txt_4.txt
 augustineciv7.txt_0.txt
 augustineciv7.txt_1.txt
 augustineciv7.txt_2.txt
@@ -2825,6 +2932,7 @@ augustineciv8.txt_3.txt
 augustineciv8.txt_4.txt
 augustineciv8.txt_5.txt
 augustineciv8.txt_6.txt
+augustineciv8.txt_7.txt
 augustineciv9.txt_0.txt
 augustineciv9.txt_1.txt
 augustineciv9.txt_2.txt
@@ -2874,6 +2982,7 @@ augustineconf8.txt_2.txt
 augustineconf9.txt_0.txt
 augustineconf9.txt_1.txt
 augustineconf9.txt_2.txt
+augustineconf9.txt_3.txt
 augustinedia.txt_0.txt
 augustinedia.txt_1.txt
 augustinedia.txt_2.txt
@@ -2891,6 +3000,7 @@ augustineiulianus1.txt_6.txt
 augustineiulianus1.txt_7.txt
 augustineiulianus1.txt_8.txt
 augustineiulianus1.txt_9.txt
+augustineiulianus1.txt_10.txt
 augustineiulianus2.txt_0.txt
 augustineiulianus2.txt_1.txt
 augustineiulianus2.txt_2.txt
@@ -2911,11 +3021,12 @@ augustineserm17.txt_0.txt
 augustineserm18.txt.txt
 augustineserm19.txt_0.txt
 augustineserm2.txt_0.txt
-augustineserm20.txt.txt
+augustineserm20.txt_0.txt
 augustineserm4.txt_0.txt
 augustineserm4.txt_1.txt
 augustineserm4.txt_2.txt
 augustineserm4.txt_3.txt
+augustineserm4.txt_4.txt
 augustineserm5.txt_0.txt
 augustineserm6.txt.txt
 augustineserm7.txt_0.txt
@@ -2924,6 +3035,7 @@ augustineserm71.txt_1.txt
 augustineserm71.txt_2.txt
 augustineserm71.txt_3.txt
 augustineserm71.txt_4.txt
+augustineserm71.txt_5.txt
 augustineserm72.txt.txt
 augustineserm73.txt.txt
 augustineserm74.txt.txt
@@ -2945,6 +3057,7 @@ augustineserm87.txt_1.txt
 augustineserm88.txt_0.txt
 augustineserm88.txt_1.txt
 augustineserm88.txt_2.txt
+augustineserm88.txt_3.txt
 augustineserm9.txt_0.txt
 augustineserm9.txt_1.txt
 augustineserm9.txt_2.txt
@@ -3044,6 +3157,7 @@ baconbacon.hist4.txt_2.txt
 baconbacon.hist4.txt_3.txt
 baconbacon.hist5.txt_0.txt
 baconbacon.hist5.txt_1.txt
+baconbacon.hist5.txt_2.txt
 baconbacon.hist6.txt_0.txt
 baconbacon.hist6.txt_1.txt
 baconbacon.hist6.txt_2.txt
@@ -3132,6 +3246,7 @@ baconbacon.sermones.txt_25.txt
 baconbacon.sermones.txt_26.txt
 baconbacon.sermones.txt_27.txt
 baconbacon.sermones.txt_28.txt
+baconbacon.sermones.txt_29.txt
 baconbacon.titlepage.txt.txt
 bedebede1.txt_0.txt
 bedebede1.txt_1.txt
@@ -3142,6 +3257,7 @@ bedebede1.txt_5.txt
 bedebede1.txt_6.txt
 bedebede1.txt_7.txt
 bedebede1.txt_8.txt
+bedebede1.txt_9.txt
 bedebede2.txt_0.txt
 bedebede2.txt_1.txt
 bedebede2.txt_2.txt
@@ -3192,10 +3308,12 @@ bedebedeproverbs.txt_1.txt
 bedebedeproverbs.txt_2.txt
 bedebedeproverbs.txt_3.txt
 bedebedeproverbs.txt_4.txt
+bedebedeproverbs.txt_5.txt
 boethiusdaciadeaeternitate.txt_0.txt
 boethiusdaciadeaeternitate.txt_1.txt
 boethiusdaciadeaeternitate.txt_2.txt
 boethiusdaciadeaeternitate.txt_3.txt
+boethiusdaciadeaeternitate.txt_4.txt
 boethiusdaciadesummobono.txt_0.txt
 bulteliusbultelius1.txt.txt
 bulteliusbultelius2.txt_0.txt
@@ -3214,6 +3332,7 @@ caesarbc1.txt_3.txt
 caesarbc1.txt_4.txt
 caesarbc1.txt_5.txt
 caesarbc1.txt_6.txt
+caesarbc1.txt_7.txt
 caesarbc2.txt_0.txt
 caesarbc2.txt_1.txt
 caesarbc2.txt_2.txt
@@ -3228,6 +3347,7 @@ caesarbc3.txt_6.txt
 caesarbc3.txt_7.txt
 caesarbc3.txt_8.txt
 caesarbc3.txt_9.txt
+caesarbc3.txt_10.txt
 caesarbellafr.txt_0.txt
 caesarbellafr.txt_1.txt
 caesarbellafr.txt_2.txt
@@ -3244,6 +3364,7 @@ caesargall1.txt_3.txt
 caesargall1.txt_4.txt
 caesargall2.txt_0.txt
 caesargall2.txt_1.txt
+caesargall2.txt_2.txt
 caesargall3.txt_0.txt
 caesargall3.txt_1.txt
 caesargall4.txt_0.txt
@@ -3257,6 +3378,7 @@ caesargall5.txt_4.txt
 caesargall6.txt_0.txt
 caesargall6.txt_1.txt
 caesargall6.txt_2.txt
+caesargall6.txt_3.txt
 caesargall7.txt_0.txt
 caesargall7.txt_1.txt
 caesargall7.txt_2.txt
@@ -3269,6 +3391,7 @@ caesargall8.txt_0.txt
 caesargall8.txt_1.txt
 caesargall8.txt_2.txt
 caesargall8.txt_3.txt
+caesargall8.txt_4.txt
 caesarhisp.txt_0.txt
 caesarhisp.txt_1.txt
 caesarhisp.txt_2.txt
@@ -3284,6 +3407,7 @@ campioncampion.epigr2.txt_1.txt
 campioncampion.epigr2.txt_2.txt
 campioncampion.epigr2.txt_3.txt
 campioncampion.epigr2.txt_4.txt
+campioncampion.epigr2.txt_5.txt
 campioncampion.misc.txt.txt
 campioncampion.plot1.txt_0.txt
 campioncampion.plot1.txt_1.txt
@@ -3314,6 +3438,7 @@ capellanuscapellanus1.txt_18.txt
 capellanuscapellanus1.txt_19.txt
 capellanuscapellanus1.txt_20.txt
 capellanuscapellanus1.txt_21.txt
+capellanuscapellanus1.txt_22.txt
 capellanuscapellanus2.txt_0.txt
 capellanuscapellanus2.txt_1.txt
 capellanuscapellanus2.txt_2.txt
@@ -3332,7 +3457,7 @@ cassiodorusanima.txt_4.txt
 cassiodorusanima.txt_5.txt
 cassiodorusanima.txt_6.txt
 cassiodorusepist.txt.txt
-cassiodorusmusica.txt.txt
+cassiodorusmusica.txt_0.txt
 cassiodorusorationes.txt_0.txt
 cassiodorusvaria.praef.txt.txt
 cassiodorusvaria1.txt_0.txt
@@ -3342,6 +3467,7 @@ cassiodorusvaria1.txt_3.txt
 cassiodorusvaria1.txt_4.txt
 cassiodorusvaria1.txt_5.txt
 cassiodorusvaria1.txt_6.txt
+cassiodorusvaria1.txt_7.txt
 cassiodorusvaria10.txt_0.txt
 cassiodorusvaria10.txt_1.txt
 cassiodorusvaria10.txt_2.txt
@@ -3367,6 +3493,7 @@ cassiodorusvaria2.txt_2.txt
 cassiodorusvaria2.txt_3.txt
 cassiodorusvaria2.txt_4.txt
 cassiodorusvaria2.txt_5.txt
+cassiodorusvaria2.txt_6.txt
 cassiodorusvaria3.txt_0.txt
 cassiodorusvaria3.txt_1.txt
 cassiodorusvaria3.txt_2.txt
@@ -3406,12 +3533,14 @@ cassiodorusvaria8.txt_3.txt
 cassiodorusvaria8.txt_4.txt
 cassiodorusvaria8.txt_5.txt
 cassiodorusvaria8.txt_6.txt
+cassiodorusvaria8.txt_7.txt
 cassiodorusvaria9.txt_0.txt
 cassiodorusvaria9.txt_1.txt
 cassiodorusvaria9.txt_2.txt
 cassiodorusvaria9.txt_3.txt
 cassiodorusvaria9.txt_4.txt
 cassiodorusvaria9.txt_5.txt
+cassiodorusvaria9.txt_6.txt
 catocato.agri.txt_0.txt
 catocato.agri.txt_1.txt
 catocato.agri.txt_2.txt
@@ -3459,11 +3588,13 @@ ciceroatt12.txt_1.txt
 ciceroatt12.txt_2.txt
 ciceroatt12.txt_3.txt
 ciceroatt12.txt_4.txt
+ciceroatt12.txt_5.txt
 ciceroatt13.txt_0.txt
 ciceroatt13.txt_1.txt
 ciceroatt13.txt_2.txt
 ciceroatt13.txt_3.txt
 ciceroatt13.txt_4.txt
+ciceroatt13.txt_5.txt
 ciceroatt14.txt_0.txt
 ciceroatt14.txt_1.txt
 ciceroatt14.txt_2.txt
@@ -3529,6 +3660,7 @@ cicerobrut.txt_12.txt
 cicerobrut.txt_13.txt
 cicerobrut.txt_14.txt
 cicerobrut.txt_15.txt
+cicerobrut.txt_16.txt
 cicerocaecilium.txt_0.txt
 cicerocaecilium.txt_1.txt
 cicerocaecilium.txt_2.txt
@@ -3550,6 +3682,7 @@ cicerocat2.txt_1.txt
 cicerocat3.txt_0.txt
 cicerocat3.txt_1.txt
 cicerocat4.txt_0.txt
+cicerocat4.txt_1.txt
 cicerocluentio.txt_0.txt
 cicerocluentio.txt_1.txt
 cicerocluentio.txt_2.txt
@@ -3586,6 +3719,7 @@ cicerodivinatione2.txt_5.txt
 cicerodivinatione2.txt_6.txt
 cicerodivinatione2.txt_7.txt
 cicerodivinatione2.txt_8.txt
+cicerodivinatione2.txt_9.txt
 cicerodomo.txt_0.txt
 cicerodomo.txt_1.txt
 cicerodomo.txt_2.txt
@@ -3600,12 +3734,14 @@ cicerofam1.txt_0.txt
 cicerofam1.txt_1.txt
 cicerofam1.txt_2.txt
 cicerofam1.txt_3.txt
+cicerofam1.txt_4.txt
 cicerofam10.txt_0.txt
 cicerofam10.txt_1.txt
 cicerofam10.txt_2.txt
 cicerofam10.txt_3.txt
 cicerofam10.txt_4.txt
 cicerofam10.txt_5.txt
+cicerofam10.txt_6.txt
 cicerofam11.txt_0.txt
 cicerofam11.txt_1.txt
 cicerofam11.txt_2.txt
@@ -3631,6 +3767,7 @@ cicerofam15.txt_2.txt
 cicerofam15.txt_3.txt
 cicerofam16.txt_0.txt
 cicerofam16.txt_1.txt
+cicerofam16.txt_2.txt
 cicerofam2.txt_0.txt
 cicerofam2.txt_1.txt
 cicerofam2.txt_2.txt
@@ -3641,6 +3778,7 @@ cicerofam3.txt_3.txt
 cicerofam4.txt_0.txt
 cicerofam4.txt_1.txt
 cicerofam4.txt_2.txt
+cicerofam4.txt_3.txt
 cicerofam5.txt_0.txt
 cicerofam5.txt_1.txt
 cicerofam5.txt_2.txt
@@ -3650,10 +3788,12 @@ cicerofam6.txt_0.txt
 cicerofam6.txt_1.txt
 cicerofam6.txt_2.txt
 cicerofam6.txt_3.txt
+cicerofam6.txt_4.txt
 cicerofam7.txt_0.txt
 cicerofam7.txt_1.txt
 cicerofam7.txt_2.txt
 cicerofam7.txt_3.txt
+cicerofam7.txt_4.txt
 cicerofam8.txt_0.txt
 cicerofam8.txt_1.txt
 cicerofam8.txt_2.txt
@@ -3746,6 +3886,7 @@ ciceroinventione2.txt_7.txt
 ciceroinventione2.txt_8.txt
 ciceroinventione2.txt_9.txt
 ciceroinventione2.txt_10.txt
+ciceroinventione2.txt_11.txt
 ciceroleg1.txt_0.txt
 ciceroleg1.txt_1.txt
 ciceroleg1.txt_2.txt
@@ -3754,6 +3895,7 @@ ciceroleg2.txt_0.txt
 ciceroleg2.txt_1.txt
 ciceroleg2.txt_2.txt
 ciceroleg2.txt_3.txt
+ciceroleg2.txt_4.txt
 ciceroleg3.txt_0.txt
 ciceroleg3.txt_1.txt
 ciceroleg3.txt_2.txt
@@ -3764,6 +3906,7 @@ cicerolegagr2.txt_2.txt
 cicerolegagr2.txt_3.txt
 cicerolegagr2.txt_4.txt
 cicerolegagr2.txt_5.txt
+cicerolegagr2.txt_6.txt
 cicerolegagr3.txt.txt
 cicerolig.txt_0.txt
 cicerolig.txt_1.txt
@@ -3774,6 +3917,7 @@ ciceromilo.txt_2.txt
 ciceromilo.txt_3.txt
 ciceromilo.txt_4.txt
 ciceromilo.txt_5.txt
+ciceromilo.txt_6.txt
 ciceromurena.txt_0.txt
 ciceromurena.txt_1.txt
 ciceromurena.txt_2.txt
@@ -3803,6 +3947,7 @@ cicerond3.txt_1.txt
 cicerond3.txt_2.txt
 cicerond3.txt_3.txt
 cicerond3.txt_4.txt
+cicerond3.txt_5.txt
 cicerooff1.txt_0.txt
 cicerooff1.txt_1.txt
 cicerooff1.txt_2.txt
@@ -3812,11 +3957,13 @@ cicerooff1.txt_5.txt
 cicerooff1.txt_6.txt
 cicerooff1.txt_7.txt
 cicerooff1.txt_8.txt
+cicerooff1.txt_9.txt
 cicerooff2.txt_0.txt
 cicerooff2.txt_1.txt
 cicerooff2.txt_2.txt
 cicerooff2.txt_3.txt
 cicerooff2.txt_4.txt
+cicerooff2.txt_5.txt
 cicerooff3.txt_0.txt
 cicerooff3.txt_1.txt
 cicerooff3.txt_2.txt
@@ -3866,6 +4013,7 @@ cicerooratore2.txt_13.txt
 cicerooratore2.txt_14.txt
 cicerooratore2.txt_15.txt
 cicerooratore2.txt_16.txt
+cicerooratore2.txt_17.txt
 cicerooratore3.txt_0.txt
 cicerooratore3.txt_1.txt
 cicerooratore3.txt_2.txt
@@ -3906,13 +4054,14 @@ cicerophil2.txt_5.txt
 cicerophil2.txt_6.txt
 cicerophil3.txt_0.txt
 cicerophil3.txt_1.txt
-cicerophil4.txt.txt
+cicerophil4.txt_0.txt
 cicerophil5.txt_0.txt
 cicerophil5.txt_1.txt
 cicerophil5.txt_2.txt
 cicerophil6.txt_0.txt
 cicerophil7.txt_0.txt
 cicerophil8.txt_0.txt
+cicerophil8.txt_1.txt
 cicerophil9.txt_0.txt
 ciceropiso.txt_0.txt
 ciceropiso.txt_1.txt
@@ -3930,6 +4079,7 @@ ciceroplancio.txt_5.txt
 ciceroplancio.txt_6.txt
 ciceropostreditum.txt_0.txt
 ciceropostreditum.txt_1.txt
+ciceropostreditum.txt_2.txt
 ciceropostreditum2.txt_0.txt
 ciceroprov.txt_0.txt
 ciceroprov.txt_1.txt
@@ -3960,6 +4110,7 @@ cicerorosccom.txt_0.txt
 cicerorosccom.txt_1.txt
 cicerorosccom.txt_2.txt
 ciceroscauro.txt_0.txt
+ciceroscauro.txt_1.txt
 cicerosenectute.txt_0.txt
 cicerosenectute.txt_1.txt
 cicerosenectute.txt_2.txt
@@ -4011,6 +4162,7 @@ cicerotusc3.txt_1.txt
 cicerotusc3.txt_2.txt
 cicerotusc3.txt_3.txt
 cicerotusc3.txt_4.txt
+cicerotusc3.txt_5.txt
 cicerotusc4.txt_0.txt
 cicerotusc4.txt_1.txt
 cicerotusc4.txt_2.txt
@@ -4025,6 +4177,7 @@ cicerotusc5.txt_5.txt
 cicerotusc5.txt_6.txt
 cicerovatin.txt_0.txt
 cicerovatin.txt_1.txt
+cicerovatin.txt_2.txt
 cicerover1.txt_0.txt
 cicerover1.txt_1.txt
 cicerover1.txt_2.txt
@@ -4050,6 +4203,7 @@ ciceroverres.2.2.txt_8.txt
 ciceroverres.2.2.txt_9.txt
 ciceroverres.2.2.txt_10.txt
 ciceroverres.2.2.txt_11.txt
+ciceroverres.2.2.txt_12.txt
 ciceroverres.2.3.txt_0.txt
 ciceroverres.2.3.txt_1.txt
 ciceroverres.2.3.txt_2.txt
@@ -4066,6 +4220,7 @@ ciceroverres.2.3.txt_12.txt
 ciceroverres.2.3.txt_13.txt
 ciceroverres.2.3.txt_14.txt
 ciceroverres.2.3.txt_15.txt
+ciceroverres.2.3.txt_16.txt
 ciceroverres.2.4.txt_0.txt
 ciceroverres.2.4.txt_1.txt
 ciceroverres.2.4.txt_2.txt
@@ -4089,12 +4244,15 @@ ciceroverres.2.5.txt_8.txt
 ciceroverres.2.5.txt_9.txt
 ciceroverres.2.5.txt_10.txt
 ciceroverres.2.5.txt_11.txt
+ciceroverres.2.5.txt_12.txt
 claudianclaudian.cons6.txt_0.txt
 claudianclaudian.cons6.txt_1.txt
+claudianclaudian.cons6.txt_2.txt
 claudianclaudian.olyb.txt_0.txt
 claudianclaudian.proserp1.txt_0.txt
 claudianclaudian.proserp2.txt_0.txt
 claudianclaudian.proserp3.txt_0.txt
+claudianclaudian.proserp3.txt_1.txt
 claudianclaudian.ruf1.txt_0.txt
 columellacolumella.arbor.txt_0.txt
 columellacolumella.arbor.txt_1.txt
@@ -4166,10 +4324,12 @@ columellacolumella.rr8.txt_1.txt
 columellacolumella.rr8.txt_2.txt
 columellacolumella.rr8.txt_3.txt
 columellacolumella.rr8.txt_4.txt
+columellacolumella.rr8.txt_5.txt
 columellacolumella.rr9.txt_0.txt
 columellacolumella.rr9.txt_1.txt
 columellacolumella.rr9.txt_2.txt
 columellacolumella.rr9.txt_3.txt
+columellacolumella.rr9.txt_4.txt
 commodianuscommodianus1.txt_0.txt
 commodianuscommodianus1.txt_1.txt
 commodianuscommodianus1.txt_2.txt
@@ -4178,6 +4338,7 @@ commodianuscommodianus2.txt_0.txt
 commodianuscommodianus2.txt_1.txt
 commodianuscommodianus2.txt_2.txt
 commodianuscommodianus2.txt_3.txt
+commodianuscommodianus2.txt_4.txt
 commodianuscommodianus3.txt.txt
 curtiuscurtius10.txt_0.txt
 curtiuscurtius10.txt_1.txt
@@ -4196,6 +4357,7 @@ curtiuscurtius4.txt_4.txt
 curtiuscurtius4.txt_5.txt
 curtiuscurtius4.txt_6.txt
 curtiuscurtius4.txt_7.txt
+curtiuscurtius4.txt_8.txt
 curtiuscurtius5.txt_0.txt
 curtiuscurtius5.txt_1.txt
 curtiuscurtius5.txt_2.txt
@@ -4232,6 +4394,7 @@ danteep.txt_2.txt
 danteep.txt_3.txt
 danteep.txt_4.txt
 danteep.txt_5.txt
+danteep.txt_6.txt
 dantemon1.txt_0.txt
 dantemon1.txt_1.txt
 dantemon1.txt_2.txt
@@ -4243,6 +4406,7 @@ dantemon3.txt_0.txt
 dantemon3.txt_1.txt
 dantemon3.txt_2.txt
 dantemon3.txt_3.txt
+dantemon3.txt_4.txt
 dantevulgar.txt_0.txt
 dantevulgar.txt_1.txt
 dantevulgar.txt_2.txt
@@ -4280,6 +4444,8 @@ erasmusantibarb.txt_15.txt
 erasmusantibarb.txt_16.txt
 erasmusantibarb.txt_17.txt
 erasmusantibarb.txt_18.txt
+erasmusantibarb.txt_19.txt
+erasmusantibarb.txt_20.txt
 erasmuscoll.txt.txt
 erasmusep.txt_0.txt
 erasmusep.txt_1.txt
@@ -4316,6 +4482,7 @@ erasmusinst.txt_14.txt
 erasmusinst.txt_15.txt
 erasmusinst.txt_16.txt
 erasmusinst.txt_17.txt
+erasmusinst.txt_18.txt
 erasmuslaude.txt_0.txt
 erasmuslaude.txt_1.txt
 erasmuslaude.txt_2.txt
@@ -4342,6 +4509,7 @@ erasmusquerela.txt_2.txt
 erasmusquerela.txt_3.txt
 erasmusquerela.txt_4.txt
 erasmusquerela.txt_5.txt
+erasmusquerela.txt_6.txt
 eutropiuseutropius1.txt_0.txt
 eutropiuseutropius10.txt_0.txt
 eutropiuseutropius2.txt_0.txt
@@ -4395,6 +4563,7 @@ galileogalileo.sid.txt_2.txt
 galileogalileo.sid.txt_3.txt
 galileogalileo.sid.txt_4.txt
 galileogalileo.sid.txt_5.txt
+galileogalileo.sid.txt_6.txt
 gelliusgellius1.txt_0.txt
 gelliusgellius1.txt_1.txt
 gelliusgellius1.txt_2.txt
@@ -4405,6 +4574,7 @@ gelliusgellius10.txt_0.txt
 gelliusgellius10.txt_1.txt
 gelliusgellius10.txt_2.txt
 gelliusgellius10.txt_3.txt
+gelliusgellius10.txt_4.txt
 gelliusgellius11.txt_0.txt
 gelliusgellius11.txt_1.txt
 gelliusgellius11.txt_2.txt
@@ -4413,6 +4583,7 @@ gelliusgellius13.txt_1.txt
 gelliusgellius13.txt_2.txt
 gelliusgellius13.txt_3.txt
 gelliusgellius13.txt_4.txt
+gelliusgellius13.txt_5.txt
 gelliusgellius2.txt_0.txt
 gelliusgellius2.txt_1.txt
 gelliusgellius2.txt_2.txt
@@ -4431,12 +4602,15 @@ gelliusgellius4.txt_2.txt
 gelliusgellius5.txt_0.txt
 gelliusgellius5.txt_1.txt
 gelliusgellius5.txt_2.txt
+gelliusgellius5.txt_3.txt
 gelliusgellius6.txt_0.txt
 gelliusgellius6.txt_1.txt
 gelliusgellius6.txt_2.txt
 gelliusgellius6.txt_3.txt
+gelliusgellius6.txt_4.txt
 gelliusgellius7.txt_0.txt
 gelliusgellius7.txt_1.txt
+gelliusgellius7.txt_2.txt
 gelliusgellius8.txt.txt
 gelliusgellius9.txt_0.txt
 gelliusgellius9.txt_1.txt
@@ -4445,6 +4619,7 @@ gelliusgelliuscapitula.txt_0.txt
 gelliusgelliuscapitula.txt_1.txt
 gelliusgelliuscapitula.txt_2.txt
 gelliusgelliuscapitula.txt_3.txt
+gelliusgelliuscapitula.txt_4.txt
 gelliusgelliuspraef.txt.txt
 gestafrancorumgestafrancorum1.txt_0.txt
 gestafrancorumgestafrancorum10.txt_0.txt
@@ -4498,6 +4673,7 @@ gregorytoursgregorytours4.txt_4.txt
 gregorytoursgregorytours4.txt_5.txt
 gregorytoursgregorytours4.txt_6.txt
 gregorytoursgregorytours4.txt_7.txt
+gregorytoursgregorytours4.txt_8.txt
 gregorytoursgregorytours5.txt_0.txt
 gregorytoursgregorytours5.txt_1.txt
 gregorytoursgregorytours5.txt_2.txt
@@ -4549,7 +4725,9 @@ horacecarm1.txt_1.txt
 horacecarm2.txt_0.txt
 horacecarm3.txt_0.txt
 horacecarm3.txt_1.txt
+horacecarm3.txt_2.txt
 horacecarm4.txt_0.txt
+horacecarm4.txt_1.txt
 horacecarmsaec.txt.txt
 horaceep.txt_0.txt
 horaceep.txt_1.txt
@@ -4607,6 +4785,7 @@ hyginushyginus5.txt_2.txt
 hyginushyginus5.txt_3.txt
 hyginushyginus5.txt_4.txt
 hyginushyginus5.txt_5.txt
+hyginushyginus5.txt_6.txt
 hyginushyginus6.txt_0.txt
 hyginushyginus6.txt_1.txt
 isidore1.txt_0.txt
@@ -4617,6 +4796,7 @@ isidore1.txt_4.txt
 isidore1.txt_5.txt
 isidore1.txt_6.txt
 isidore1.txt_7.txt
+isidore1.txt_8.txt
 isidore10.txt_0.txt
 isidore10.txt_1.txt
 isidore10.txt_2.txt
@@ -4634,6 +4814,7 @@ isidore12.txt_3.txt
 isidore12.txt_4.txt
 isidore12.txt_5.txt
 isidore12.txt_6.txt
+isidore12.txt_7.txt
 isidore13.txt_0.txt
 isidore13.txt_1.txt
 isidore13.txt_2.txt
@@ -4660,9 +4841,11 @@ isidore17.txt_2.txt
 isidore17.txt_3.txt
 isidore17.txt_4.txt
 isidore17.txt_5.txt
+isidore17.txt_6.txt
 isidore18.txt_0.txt
 isidore18.txt_1.txt
 isidore18.txt_2.txt
+isidore18.txt_3.txt
 isidore19.txt_0.txt
 isidore19.txt_1.txt
 isidore19.txt_2.txt
@@ -4715,10 +4898,12 @@ isidore9.txt_2.txt
 isidore9.txt_3.txt
 isidore9.txt_4.txt
 isidore9.txt_5.txt
+isidore9.txt_6.txt
 isidorehistoria.txt_0.txt
 isidorehistoria.txt_1.txt
 isidorehistoria.txt_2.txt
 isidorehistoria.txt_3.txt
+isidorehistoria.txt_4.txt
 isidoresententiae1.txt_0.txt
 isidoresententiae1.txt_1.txt
 isidoresententiae1.txt_2.txt
@@ -4736,6 +4921,7 @@ isidoresententiae2.txt_5.txt
 isidoresententiae2.txt_6.txt
 isidoresententiae2.txt_7.txt
 isidoresententiae2.txt_8.txt
+isidoresententiae2.txt_9.txt
 isidoresententiae3.txt_0.txt
 isidoresententiae3.txt_1.txt
 isidoresententiae3.txt_2.txt
@@ -4749,6 +4935,7 @@ isidoresententiae3.txt_9.txt
 isidoresententiae3.txt_10.txt
 isidoresententiae3.txt_11.txt
 isidoresententiae3.txt_12.txt
+isidoresententiae3.txt_13.txt
 jeromecontraioannem.txt_0.txt
 jeromecontraioannem.txt_1.txt
 jeromecontraioannem.txt_2.txt
@@ -4757,6 +4944,7 @@ jeromecontraioannem.txt_4.txt
 jeromecontraioannem.txt_5.txt
 jeromecontraioannem.txt_6.txt
 jeromecontraioannem.txt_7.txt
+jeromecontraioannem.txt_8.txt
 jeromeepistulae.txt_0.txt
 jeromeepistulae.txt_1.txt
 jeromeepistulae.txt_2.txt
@@ -4794,6 +4982,8 @@ justiniancodex1.txt_28.txt
 justiniancodex1.txt_29.txt
 justiniancodex1.txt_30.txt
 justiniancodex1.txt_31.txt
+justiniancodex1.txt_32.txt
+justiniancodex1.txt_33.txt
 justiniancodex10.txt_0.txt
 justiniancodex10.txt_1.txt
 justiniancodex10.txt_2.txt
@@ -4809,6 +4999,8 @@ justiniancodex10.txt_11.txt
 justiniancodex10.txt_12.txt
 justiniancodex10.txt_13.txt
 justiniancodex10.txt_14.txt
+justiniancodex10.txt_15.txt
+justiniancodex10.txt_16.txt
 justiniancodex11.txt_0.txt
 justiniancodex11.txt_1.txt
 justiniancodex11.txt_2.txt
@@ -4825,6 +5017,7 @@ justiniancodex11.txt_12.txt
 justiniancodex11.txt_13.txt
 justiniancodex11.txt_14.txt
 justiniancodex11.txt_15.txt
+justiniancodex11.txt_16.txt
 justiniancodex12.txt_0.txt
 justiniancodex12.txt_1.txt
 justiniancodex12.txt_2.txt
@@ -4846,6 +5039,8 @@ justiniancodex12.txt_17.txt
 justiniancodex12.txt_18.txt
 justiniancodex12.txt_19.txt
 justiniancodex12.txt_20.txt
+justiniancodex12.txt_21.txt
+justiniancodex12.txt_22.txt
 justiniancodex2.txt_0.txt
 justiniancodex2.txt_1.txt
 justiniancodex2.txt_2.txt
@@ -4863,6 +5058,8 @@ justiniancodex2.txt_13.txt
 justiniancodex2.txt_14.txt
 justiniancodex2.txt_15.txt
 justiniancodex2.txt_16.txt
+justiniancodex2.txt_17.txt
+justiniancodex2.txt_18.txt
 justiniancodex3.txt_0.txt
 justiniancodex3.txt_1.txt
 justiniancodex3.txt_2.txt
@@ -4880,6 +5077,8 @@ justiniancodex3.txt_13.txt
 justiniancodex3.txt_14.txt
 justiniancodex3.txt_15.txt
 justiniancodex3.txt_16.txt
+justiniancodex3.txt_17.txt
+justiniancodex3.txt_18.txt
 justiniancodex4.txt_0.txt
 justiniancodex4.txt_1.txt
 justiniancodex4.txt_2.txt
@@ -4906,6 +5105,8 @@ justiniancodex4.txt_22.txt
 justiniancodex4.txt_23.txt
 justiniancodex4.txt_24.txt
 justiniancodex4.txt_25.txt
+justiniancodex4.txt_26.txt
+justiniancodex4.txt_27.txt
 justiniancodex5.txt_0.txt
 justiniancodex5.txt_1.txt
 justiniancodex5.txt_2.txt
@@ -4936,6 +5137,9 @@ justiniancodex5.txt_26.txt
 justiniancodex5.txt_27.txt
 justiniancodex5.txt_28.txt
 justiniancodex5.txt_29.txt
+justiniancodex5.txt_30.txt
+justiniancodex5.txt_31.txt
+justiniancodex5.txt_32.txt
 justiniancodex6.txt_0.txt
 justiniancodex6.txt_1.txt
 justiniancodex6.txt_2.txt
@@ -4971,6 +5175,9 @@ justiniancodex6.txt_31.txt
 justiniancodex6.txt_32.txt
 justiniancodex6.txt_33.txt
 justiniancodex6.txt_34.txt
+justiniancodex6.txt_35.txt
+justiniancodex6.txt_36.txt
+justiniancodex6.txt_37.txt
 justiniancodex7.txt_0.txt
 justiniancodex7.txt_1.txt
 justiniancodex7.txt_2.txt
@@ -4996,6 +5203,8 @@ justiniancodex7.txt_21.txt
 justiniancodex7.txt_22.txt
 justiniancodex7.txt_23.txt
 justiniancodex7.txt_24.txt
+justiniancodex7.txt_25.txt
+justiniancodex7.txt_26.txt
 justiniancodex8.txt_0.txt
 justiniancodex8.txt_1.txt
 justiniancodex8.txt_2.txt
@@ -5018,6 +5227,8 @@ justiniancodex8.txt_18.txt
 justiniancodex8.txt_19.txt
 justiniancodex8.txt_20.txt
 justiniancodex8.txt_21.txt
+justiniancodex8.txt_22.txt
+justiniancodex8.txt_23.txt
 justiniancodex9.txt_0.txt
 justiniancodex9.txt_1.txt
 justiniancodex9.txt_2.txt
@@ -5034,6 +5245,8 @@ justiniancodex9.txt_12.txt
 justiniancodex9.txt_13.txt
 justiniancodex9.txt_14.txt
 justiniancodex9.txt_15.txt
+justiniancodex9.txt_16.txt
+justiniancodex9.txt_17.txt
 justiniandigest1.txt_0.txt
 justiniandigest1.txt_1.txt
 justiniandigest1.txt_2.txt
@@ -5044,6 +5257,7 @@ justiniandigest1.txt_6.txt
 justiniandigest1.txt_7.txt
 justiniandigest1.txt_8.txt
 justiniandigest1.txt_9.txt
+justiniandigest1.txt_10.txt
 justiniandigest10.txt_0.txt
 justiniandigest10.txt_1.txt
 justiniandigest10.txt_2.txt
@@ -5052,6 +5266,7 @@ justiniandigest10.txt_4.txt
 justiniandigest10.txt_5.txt
 justiniandigest10.txt_6.txt
 justiniandigest10.txt_7.txt
+justiniandigest10.txt_8.txt
 justiniandigest11.txt_0.txt
 justiniandigest11.txt_1.txt
 justiniandigest11.txt_2.txt
@@ -5068,6 +5283,7 @@ justiniandigest12.txt_6.txt
 justiniandigest12.txt_7.txt
 justiniandigest12.txt_8.txt
 justiniandigest12.txt_9.txt
+justiniandigest12.txt_10.txt
 justiniandigest13.txt_0.txt
 justiniandigest13.txt_1.txt
 justiniandigest13.txt_2.txt
@@ -5110,6 +5326,7 @@ justiniandigest17.txt_6.txt
 justiniandigest17.txt_7.txt
 justiniandigest17.txt_8.txt
 justiniandigest17.txt_9.txt
+justiniandigest17.txt_10.txt
 justiniandigest18.txt_0.txt
 justiniandigest18.txt_1.txt
 justiniandigest18.txt_2.txt
@@ -5128,6 +5345,7 @@ justiniandigest18.txt_14.txt
 justiniandigest18.txt_15.txt
 justiniandigest18.txt_16.txt
 justiniandigest18.txt_17.txt
+justiniandigest18.txt_18.txt
 justiniandigest19.txt_0.txt
 justiniandigest19.txt_1.txt
 justiniandigest19.txt_2.txt
@@ -5139,6 +5357,7 @@ justiniandigest19.txt_7.txt
 justiniandigest19.txt_8.txt
 justiniandigest19.txt_9.txt
 justiniandigest19.txt_10.txt
+justiniandigest19.txt_11.txt
 justiniandigest2.txt_0.txt
 justiniandigest2.txt_1.txt
 justiniandigest2.txt_2.txt
@@ -5150,12 +5369,14 @@ justiniandigest2.txt_7.txt
 justiniandigest2.txt_8.txt
 justiniandigest2.txt_9.txt
 justiniandigest2.txt_10.txt
+justiniandigest2.txt_11.txt
 justiniandigest20.txt_0.txt
 justiniandigest20.txt_1.txt
 justiniandigest20.txt_2.txt
 justiniandigest20.txt_3.txt
 justiniandigest20.txt_4.txt
 justiniandigest20.txt_5.txt
+justiniandigest20.txt_6.txt
 justiniandigest21.txt_0.txt
 justiniandigest21.txt_1.txt
 justiniandigest21.txt_2.txt
@@ -5166,6 +5387,7 @@ justiniandigest21.txt_6.txt
 justiniandigest21.txt_7.txt
 justiniandigest21.txt_8.txt
 justiniandigest21.txt_9.txt
+justiniandigest21.txt_10.txt
 justiniandigest22.txt_0.txt
 justiniandigest22.txt_1.txt
 justiniandigest22.txt_2.txt
@@ -5182,6 +5404,7 @@ justiniandigest23.txt_6.txt
 justiniandigest23.txt_7.txt
 justiniandigest23.txt_8.txt
 justiniandigest23.txt_9.txt
+justiniandigest23.txt_10.txt
 justiniandigest24.txt_0.txt
 justiniandigest24.txt_1.txt
 justiniandigest24.txt_2.txt
@@ -5192,6 +5415,7 @@ justiniandigest24.txt_6.txt
 justiniandigest24.txt_7.txt
 justiniandigest24.txt_8.txt
 justiniandigest24.txt_9.txt
+justiniandigest24.txt_10.txt
 justiniandigest25.txt_0.txt
 justiniandigest25.txt_1.txt
 justiniandigest25.txt_2.txt
@@ -5208,6 +5432,7 @@ justiniandigest26.txt_8.txt
 justiniandigest26.txt_9.txt
 justiniandigest26.txt_10.txt
 justiniandigest26.txt_11.txt
+justiniandigest26.txt_12.txt
 justiniandigest27.txt_0.txt
 justiniandigest27.txt_1.txt
 justiniandigest27.txt_2.txt
@@ -5219,6 +5444,7 @@ justiniandigest27.txt_7.txt
 justiniandigest27.txt_8.txt
 justiniandigest27.txt_9.txt
 justiniandigest27.txt_10.txt
+justiniandigest27.txt_11.txt
 justiniandigest28.txt_0.txt
 justiniandigest28.txt_1.txt
 justiniandigest28.txt_2.txt
@@ -5236,6 +5462,7 @@ justiniandigest28.txt_13.txt
 justiniandigest28.txt_14.txt
 justiniandigest28.txt_15.txt
 justiniandigest28.txt_16.txt
+justiniandigest28.txt_17.txt
 justiniandigest29.txt_0.txt
 justiniandigest29.txt_1.txt
 justiniandigest29.txt_2.txt
@@ -5249,6 +5476,7 @@ justiniandigest29.txt_9.txt
 justiniandigest29.txt_10.txt
 justiniandigest29.txt_11.txt
 justiniandigest29.txt_12.txt
+justiniandigest29.txt_13.txt
 justiniandigest3.txt_0.txt
 justiniandigest3.txt_1.txt
 justiniandigest3.txt_2.txt
@@ -5258,6 +5486,7 @@ justiniandigest3.txt_5.txt
 justiniandigest3.txt_6.txt
 justiniandigest3.txt_7.txt
 justiniandigest3.txt_8.txt
+justiniandigest3.txt_9.txt
 justiniandigest30.txt_0.txt
 justiniandigest30.txt_1.txt
 justiniandigest30.txt_2.txt
@@ -5276,6 +5505,7 @@ justiniandigest31.txt_4.txt
 justiniandigest31.txt_5.txt
 justiniandigest31.txt_6.txt
 justiniandigest31.txt_7.txt
+justiniandigest31.txt_8.txt
 justiniandigest32.txt_0.txt
 justiniandigest32.txt_1.txt
 justiniandigest32.txt_2.txt
@@ -5286,6 +5516,7 @@ justiniandigest32.txt_6.txt
 justiniandigest32.txt_7.txt
 justiniandigest32.txt_8.txt
 justiniandigest32.txt_9.txt
+justiniandigest32.txt_10.txt
 justiniandigest33.txt_0.txt
 justiniandigest33.txt_1.txt
 justiniandigest33.txt_2.txt
@@ -5299,6 +5530,7 @@ justiniandigest33.txt_9.txt
 justiniandigest33.txt_10.txt
 justiniandigest33.txt_11.txt
 justiniandigest33.txt_12.txt
+justiniandigest33.txt_13.txt
 justiniandigest34.txt_0.txt
 justiniandigest34.txt_1.txt
 justiniandigest34.txt_2.txt
@@ -5312,6 +5544,7 @@ justiniandigest34.txt_9.txt
 justiniandigest34.txt_10.txt
 justiniandigest34.txt_11.txt
 justiniandigest34.txt_12.txt
+justiniandigest34.txt_13.txt
 justiniandigest35.txt_0.txt
 justiniandigest35.txt_1.txt
 justiniandigest35.txt_2.txt
@@ -5327,6 +5560,7 @@ justiniandigest35.txt_11.txt
 justiniandigest35.txt_12.txt
 justiniandigest35.txt_13.txt
 justiniandigest35.txt_14.txt
+justiniandigest35.txt_15.txt
 justiniandigest36.txt_0.txt
 justiniandigest36.txt_1.txt
 justiniandigest36.txt_2.txt
@@ -5343,6 +5577,7 @@ justiniandigest36.txt_12.txt
 justiniandigest36.txt_13.txt
 justiniandigest36.txt_14.txt
 justiniandigest36.txt_15.txt
+justiniandigest36.txt_16.txt
 justiniandigest37.txt_0.txt
 justiniandigest37.txt_1.txt
 justiniandigest37.txt_2.txt
@@ -5358,6 +5593,7 @@ justiniandigest37.txt_11.txt
 justiniandigest37.txt_12.txt
 justiniandigest37.txt_13.txt
 justiniandigest37.txt_14.txt
+justiniandigest37.txt_15.txt
 justiniandigest38.txt_0.txt
 justiniandigest38.txt_1.txt
 justiniandigest38.txt_2.txt
@@ -5375,6 +5611,7 @@ justiniandigest38.txt_13.txt
 justiniandigest38.txt_14.txt
 justiniandigest38.txt_15.txt
 justiniandigest38.txt_16.txt
+justiniandigest38.txt_17.txt
 justiniandigest39.txt_0.txt
 justiniandigest39.txt_1.txt
 justiniandigest39.txt_2.txt
@@ -5390,6 +5627,7 @@ justiniandigest39.txt_11.txt
 justiniandigest39.txt_12.txt
 justiniandigest39.txt_13.txt
 justiniandigest39.txt_14.txt
+justiniandigest39.txt_15.txt
 justiniandigest4.txt_0.txt
 justiniandigest4.txt_1.txt
 justiniandigest4.txt_2.txt
@@ -5406,6 +5644,7 @@ justiniandigest4.txt_12.txt
 justiniandigest4.txt_13.txt
 justiniandigest4.txt_14.txt
 justiniandigest4.txt_15.txt
+justiniandigest4.txt_16.txt
 justiniandigest40.txt_0.txt
 justiniandigest40.txt_1.txt
 justiniandigest40.txt_2.txt
@@ -5427,6 +5666,7 @@ justiniandigest40.txt_17.txt
 justiniandigest40.txt_18.txt
 justiniandigest40.txt_19.txt
 justiniandigest40.txt_20.txt
+justiniandigest40.txt_21.txt
 justiniandigest41.txt_0.txt
 justiniandigest41.txt_1.txt
 justiniandigest41.txt_2.txt
@@ -5441,6 +5681,7 @@ justiniandigest41.txt_10.txt
 justiniandigest41.txt_11.txt
 justiniandigest41.txt_12.txt
 justiniandigest41.txt_13.txt
+justiniandigest41.txt_14.txt
 justiniandigest42.txt_0.txt
 justiniandigest42.txt_1.txt
 justiniandigest42.txt_2.txt
@@ -5485,6 +5726,10 @@ justiniandigest43.txt_30.txt
 justiniandigest43.txt_31.txt
 justiniandigest43.txt_32.txt
 justiniandigest43.txt_33.txt
+justiniandigest43.txt_34.txt
+justiniandigest43.txt_35.txt
+justiniandigest43.txt_36.txt
+justiniandigest43.txt_37.txt
 justiniandigest44.txt_0.txt
 justiniandigest44.txt_1.txt
 justiniandigest44.txt_2.txt
@@ -5494,6 +5739,7 @@ justiniandigest44.txt_5.txt
 justiniandigest44.txt_6.txt
 justiniandigest44.txt_7.txt
 justiniandigest44.txt_8.txt
+justiniandigest44.txt_9.txt
 justiniandigest45.txt_0.txt
 justiniandigest45.txt_1.txt
 justiniandigest45.txt_2.txt
@@ -5506,6 +5752,7 @@ justiniandigest45.txt_8.txt
 justiniandigest45.txt_9.txt
 justiniandigest45.txt_10.txt
 justiniandigest45.txt_11.txt
+justiniandigest45.txt_12.txt
 justiniandigest46.txt_0.txt
 justiniandigest46.txt_1.txt
 justiniandigest46.txt_2.txt
@@ -5522,6 +5769,7 @@ justiniandigest46.txt_12.txt
 justiniandigest46.txt_13.txt
 justiniandigest46.txt_14.txt
 justiniandigest46.txt_15.txt
+justiniandigest46.txt_16.txt
 justiniandigest47.txt_0.txt
 justiniandigest47.txt_1.txt
 justiniandigest47.txt_2.txt
@@ -5539,6 +5787,8 @@ justiniandigest47.txt_13.txt
 justiniandigest47.txt_14.txt
 justiniandigest47.txt_15.txt
 justiniandigest47.txt_16.txt
+justiniandigest47.txt_17.txt
+justiniandigest47.txt_18.txt
 justiniandigest48.txt_0.txt
 justiniandigest48.txt_1.txt
 justiniandigest48.txt_2.txt
@@ -5559,6 +5809,8 @@ justiniandigest48.txt_16.txt
 justiniandigest48.txt_17.txt
 justiniandigest48.txt_18.txt
 justiniandigest48.txt_19.txt
+justiniandigest48.txt_20.txt
+justiniandigest48.txt_21.txt
 justiniandigest49.txt_0.txt
 justiniandigest49.txt_1.txt
 justiniandigest49.txt_2.txt
@@ -5571,6 +5823,7 @@ justiniandigest49.txt_8.txt
 justiniandigest49.txt_9.txt
 justiniandigest49.txt_10.txt
 justiniandigest49.txt_11.txt
+justiniandigest49.txt_12.txt
 justiniandigest5.txt_0.txt
 justiniandigest5.txt_1.txt
 justiniandigest5.txt_2.txt
@@ -5582,6 +5835,7 @@ justiniandigest5.txt_7.txt
 justiniandigest5.txt_8.txt
 justiniandigest5.txt_9.txt
 justiniandigest5.txt_10.txt
+justiniandigest5.txt_11.txt
 justiniandigest50.txt_0.txt
 justiniandigest50.txt_1.txt
 justiniandigest50.txt_2.txt
@@ -5602,6 +5856,8 @@ justiniandigest50.txt_16.txt
 justiniandigest50.txt_17.txt
 justiniandigest50.txt_18.txt
 justiniandigest50.txt_19.txt
+justiniandigest50.txt_20.txt
+justiniandigest50.txt_21.txt
 justiniandigest6.txt_0.txt
 justiniandigest6.txt_1.txt
 justiniandigest6.txt_2.txt
@@ -5615,6 +5871,7 @@ justiniandigest7.txt_5.txt
 justiniandigest7.txt_6.txt
 justiniandigest7.txt_7.txt
 justiniandigest7.txt_8.txt
+justiniandigest7.txt_9.txt
 justiniandigest8.txt_0.txt
 justiniandigest8.txt_1.txt
 justiniandigest8.txt_2.txt
@@ -5622,6 +5879,7 @@ justiniandigest8.txt_3.txt
 justiniandigest8.txt_4.txt
 justiniandigest8.txt_5.txt
 justiniandigest8.txt_6.txt
+justiniandigest8.txt_7.txt
 justiniandigest9.txt_0.txt
 justiniandigest9.txt_1.txt
 justiniandigest9.txt_2.txt
@@ -5630,6 +5888,7 @@ justiniandigest9.txt_4.txt
 justiniandigest9.txt_5.txt
 justiniandigest9.txt_6.txt
 justiniandigest9.txt_7.txt
+justiniandigest9.txt_8.txt
 justinianinstitutes.proem.txt.txt
 justinianinstitutes1.txt_0.txt
 justinianinstitutes1.txt_1.txt
@@ -5647,6 +5906,7 @@ justinianinstitutes2.txt_7.txt
 justinianinstitutes2.txt_8.txt
 justinianinstitutes2.txt_9.txt
 justinianinstitutes2.txt_10.txt
+justinianinstitutes2.txt_11.txt
 justinianinstitutes3.txt_0.txt
 justinianinstitutes3.txt_1.txt
 justinianinstitutes3.txt_2.txt
@@ -5656,6 +5916,7 @@ justinianinstitutes3.txt_5.txt
 justinianinstitutes3.txt_6.txt
 justinianinstitutes3.txt_7.txt
 justinianinstitutes3.txt_8.txt
+justinianinstitutes3.txt_9.txt
 justinianinstitutes4.txt_0.txt
 justinianinstitutes4.txt_1.txt
 justinianinstitutes4.txt_2.txt
@@ -5702,6 +5963,7 @@ kempiskempis3.txt_8.txt
 kempiskempis3.txt_9.txt
 kempiskempis3.txt_10.txt
 kempiskempis3.txt_11.txt
+kempiskempis3.txt_12.txt
 kempiskempis4.txt_0.txt
 kempiskempis4.txt_1.txt
 kempiskempis4.txt_2.txt
@@ -5729,6 +5991,7 @@ lactantiusdivinst1.txt_7.txt
 lactantiusdivinst1.txt_8.txt
 lactantiusdivinst1.txt_9.txt
 lactantiusdivinst1.txt_10.txt
+lactantiusdivinst1.txt_11.txt
 leothegreatquadragesima1.txt.txt
 leothegreatquadragesima2.txt.txt
 livyliv.1.txt_0.txt
@@ -5774,6 +6037,7 @@ livyliv.21.txt_6.txt
 livyliv.21.txt_7.txt
 livyliv.21.txt_8.txt
 livyliv.21.txt_9.txt
+livyliv.21.txt_10.txt
 livyliv.22.txt_0.txt
 livyliv.22.txt_1.txt
 livyliv.22.txt_2.txt
@@ -5785,6 +6049,7 @@ livyliv.22.txt_7.txt
 livyliv.22.txt_8.txt
 livyliv.22.txt_9.txt
 livyliv.22.txt_10.txt
+livyliv.22.txt_11.txt
 livyliv.23.txt_0.txt
 livyliv.23.txt_1.txt
 livyliv.23.txt_2.txt
@@ -5804,6 +6069,7 @@ livyliv.24.txt_5.txt
 livyliv.24.txt_6.txt
 livyliv.24.txt_7.txt
 livyliv.24.txt_8.txt
+livyliv.24.txt_9.txt
 livyliv.25.txt_0.txt
 livyliv.25.txt_1.txt
 livyliv.25.txt_2.txt
@@ -5836,6 +6102,7 @@ livyliv.27.txt_7.txt
 livyliv.27.txt_8.txt
 livyliv.27.txt_9.txt
 livyliv.27.txt_10.txt
+livyliv.27.txt_11.txt
 livyliv.28.txt_0.txt
 livyliv.28.txt_1.txt
 livyliv.28.txt_2.txt
@@ -5868,6 +6135,7 @@ livyliv.3.txt_9.txt
 livyliv.3.txt_10.txt
 livyliv.3.txt_11.txt
 livyliv.3.txt_12.txt
+livyliv.3.txt_13.txt
 livyliv.30.txt_0.txt
 livyliv.30.txt_1.txt
 livyliv.30.txt_2.txt
@@ -5885,6 +6153,7 @@ livyliv.31.txt_4.txt
 livyliv.31.txt_5.txt
 livyliv.31.txt_6.txt
 livyliv.31.txt_7.txt
+livyliv.31.txt_8.txt
 livyliv.32.txt_0.txt
 livyliv.32.txt_1.txt
 livyliv.32.txt_2.txt
@@ -5925,6 +6194,7 @@ livyliv.36.txt_3.txt
 livyliv.36.txt_4.txt
 livyliv.36.txt_5.txt
 livyliv.36.txt_6.txt
+livyliv.36.txt_7.txt
 livyliv.37.txt_0.txt
 livyliv.37.txt_1.txt
 livyliv.37.txt_2.txt
@@ -5947,6 +6217,7 @@ livyliv.38.txt_7.txt
 livyliv.38.txt_8.txt
 livyliv.38.txt_9.txt
 livyliv.38.txt_10.txt
+livyliv.38.txt_11.txt
 livyliv.39.txt_0.txt
 livyliv.39.txt_1.txt
 livyliv.39.txt_2.txt
@@ -5968,6 +6239,7 @@ livyliv.4.txt_7.txt
 livyliv.4.txt_8.txt
 livyliv.4.txt_9.txt
 livyliv.4.txt_10.txt
+livyliv.4.txt_11.txt
 livyliv.40.txt_0.txt
 livyliv.40.txt_1.txt
 livyliv.40.txt_2.txt
@@ -5994,6 +6266,7 @@ livyliv.42.txt_7.txt
 livyliv.42.txt_8.txt
 livyliv.42.txt_9.txt
 livyliv.42.txt_10.txt
+livyliv.42.txt_11.txt
 livyliv.43.txt_0.txt
 livyliv.43.txt_1.txt
 livyliv.43.txt_2.txt
@@ -6006,6 +6279,7 @@ livyliv.44.txt_4.txt
 livyliv.44.txt_5.txt
 livyliv.44.txt_6.txt
 livyliv.44.txt_7.txt
+livyliv.44.txt_8.txt
 livyliv.45.txt_0.txt
 livyliv.45.txt_1.txt
 livyliv.45.txt_2.txt
@@ -6209,6 +6483,7 @@ livyliv.per99.txt.txt
 livyliv.pr.txt.txt
 lucanlucan1.txt_0.txt
 lucanlucan1.txt_1.txt
+lucanlucan1.txt_2.txt
 lucanlucan10.txt_0.txt
 lucanlucan10.txt_1.txt
 lucanlucan2.txt_0.txt
@@ -6312,12 +6587,14 @@ martinbragarusticus.txt_0.txt
 martinbragarusticus.txt_1.txt
 martinbragasententiae.txt_0.txt
 martinbragasententiae.txt_1.txt
+martinbragasententiae.txt_2.txt
 martinbragasuperbia.txt.txt
 martinbragatrina.txt.txt
 maymay1.txt_0.txt
 maymay2.txt_0.txt
 maymay3.txt_0.txt
 maymay4.txt_0.txt
+maymay4.txt_1.txt
 maymay5.txt_0.txt
 maymay6.txt_0.txt
 maymay7.txt_0.txt
@@ -6328,6 +6605,7 @@ melanchthonconf.txt_2.txt
 melanchthonconf.txt_3.txt
 melanchthonconf.txt_4.txt
 melanchthonconf.txt_5.txt
+melanchthonconf.txt_6.txt
 melanchthonhist.txt_0.txt
 melanchthonhist.txt_1.txt
 melanchthonhist.txt_2.txt
@@ -6351,7 +6629,7 @@ mirandolaoratio.txt_1.txt
 mirandolaoratio.txt_2.txt
 mirandolaoratio.txt_3.txt
 mirandolaoratio.txt_4.txt
-neposnepos.age.txt.txt
+neposnepos.age.txt_0.txt
 neposnepos.alc.txt_0.txt
 neposnepos.aris.txt.txt
 neposnepos.att.txt_0.txt
@@ -6384,10 +6662,12 @@ orosiusorosius1.txt_1.txt
 orosiusorosius1.txt_2.txt
 orosiusorosius1.txt_3.txt
 orosiusorosius1.txt_4.txt
+orosiusorosius1.txt_5.txt
 orosiusorosius2.txt_0.txt
 orosiusorosius2.txt_1.txt
 orosiusorosius2.txt_2.txt
 orosiusorosius2.txt_3.txt
+orosiusorosius2.txt_4.txt
 orosiusorosius3.txt_0.txt
 orosiusorosius3.txt_1.txt
 orosiusorosius3.txt_2.txt
@@ -6429,6 +6709,7 @@ orosiusorosius7.txt_8.txt
 orosiusorosius7.txt_9.txt
 orosiusorosius7.txt_10.txt
 orosiusorosius7.txt_11.txt
+orosiusorosius7.txt_12.txt
 ottofreising1.txt_0.txt
 ottofreising1.txt_1.txt
 ottofreising1.txt_2.txt
@@ -6486,6 +6767,7 @@ ottofreising4.txt_16.txt
 ottofreising4.txt_17.txt
 ottofreising4.txt_18.txt
 ottofreising4.txt_19.txt
+ottofreising4.txt_20.txt
 ottofreisingepistola.txt.txt
 ovidovid.amor1.txt_0.txt
 ovidovid.amor1.txt_1.txt
@@ -6507,6 +6789,7 @@ ovidovid.artis3.txt_1.txt
 ovidovid.artis3.txt_2.txt
 ovidovid.fasti1.txt_0.txt
 ovidovid.fasti1.txt_1.txt
+ovidovid.fasti1.txt_2.txt
 ovidovid.fasti2.txt_0.txt
 ovidovid.fasti2.txt_1.txt
 ovidovid.fasti2.txt_2.txt
@@ -6516,8 +6799,10 @@ ovidovid.fasti3.txt_2.txt
 ovidovid.fasti4.txt_0.txt
 ovidovid.fasti4.txt_1.txt
 ovidovid.fasti4.txt_2.txt
+ovidovid.fasti4.txt_3.txt
 ovidovid.fasti5.txt_0.txt
 ovidovid.fasti5.txt_1.txt
+ovidovid.fasti5.txt_2.txt
 ovidovid.fasti6.txt_0.txt
 ovidovid.fasti6.txt_1.txt
 ovidovid.fasti6.txt_2.txt
@@ -6533,7 +6818,7 @@ ovidovid.her17.txt_0.txt
 ovidovid.her18.txt.txt
 ovidovid.her19.txt.txt
 ovidovid.her2.txt.txt
-ovidovid.her20.txt.txt
+ovidovid.her20.txt_0.txt
 ovidovid.her21.txt_0.txt
 ovidovid.her3.txt.txt
 ovidovid.her4.txt.txt
@@ -6565,9 +6850,11 @@ ovidovid.met14.txt_2.txt
 ovidovid.met15.txt_0.txt
 ovidovid.met15.txt_1.txt
 ovidovid.met15.txt_2.txt
+ovidovid.met15.txt_3.txt
 ovidovid.met2.txt_0.txt
 ovidovid.met2.txt_1.txt
 ovidovid.met2.txt_2.txt
+ovidovid.met2.txt_3.txt
 ovidovid.met3.txt_0.txt
 ovidovid.met3.txt_1.txt
 ovidovid.met3.txt_2.txt
@@ -6576,6 +6863,7 @@ ovidovid.met4.txt_1.txt
 ovidovid.met4.txt_2.txt
 ovidovid.met5.txt_0.txt
 ovidovid.met5.txt_1.txt
+ovidovid.met5.txt_2.txt
 ovidovid.met6.txt_0.txt
 ovidovid.met6.txt_1.txt
 ovidovid.met6.txt_2.txt
@@ -6650,11 +6938,13 @@ pauldeaconhistrom14.txt_0.txt
 pauldeaconhistrom15.txt_0.txt
 pauldeaconhistrom16.txt_0.txt
 pauldeaconhistrom2.txt_0.txt
+pauldeaconhistrom2.txt_1.txt
 pauldeaconhistrom3.txt_0.txt
 pauldeaconhistrom4.txt_0.txt
 pauldeaconhistrom4.txt_1.txt
-pauldeaconhistrom5.txt.txt
+pauldeaconhistrom5.txt_0.txt
 pauldeaconhistrom6.txt_0.txt
+pauldeaconhistrom6.txt_1.txt
 pauldeaconhistrom7.txt_0.txt
 pauldeaconhistrom7.txt_1.txt
 pauldeaconhistrom8.txt_0.txt
@@ -6669,6 +6959,7 @@ plautusasinaria.txt_0.txt
 plautusasinaria.txt_1.txt
 plautusasinaria.txt_2.txt
 plautusasinaria.txt_3.txt
+plautusasinaria.txt_4.txt
 plautusaulularia.txt_0.txt
 plautusaulularia.txt_1.txt
 plautusaulularia.txt_2.txt
@@ -6697,11 +6988,13 @@ plautuscurculio.txt_2.txt
 plautusepidicus.txt_0.txt
 plautusepidicus.txt_1.txt
 plautusepidicus.txt_2.txt
+plautusepidicus.txt_3.txt
 plautusmenaechmi.txt_0.txt
 plautusmenaechmi.txt_1.txt
 plautusmenaechmi.txt_2.txt
 plautusmenaechmi.txt_3.txt
 plautusmenaechmi.txt_4.txt
+plautusmenaechmi.txt_5.txt
 plautusmercator.txt_0.txt
 plautusmercator.txt_1.txt
 plautusmercator.txt_2.txt
@@ -6714,11 +7007,13 @@ plautusmiles.txt_3.txt
 plautusmiles.txt_4.txt
 plautusmiles.txt_5.txt
 plautusmiles.txt_6.txt
+plautusmiles.txt_7.txt
 plautusmostellaria.txt_0.txt
 plautusmostellaria.txt_1.txt
 plautusmostellaria.txt_2.txt
 plautusmostellaria.txt_3.txt
 plautusmostellaria.txt_4.txt
+plautusmostellaria.txt_5.txt
 plautuspersa.txt_0.txt
 plautuspersa.txt_1.txt
 plautuspersa.txt_2.txt
@@ -6736,6 +7031,7 @@ plautuspseudolus.txt_2.txt
 plautuspseudolus.txt_3.txt
 plautuspseudolus.txt_4.txt
 plautuspseudolus.txt_5.txt
+plautuspseudolus.txt_6.txt
 plautusrudens.txt_0.txt
 plautusrudens.txt_1.txt
 plautusrudens.txt_2.txt
@@ -6746,6 +7042,7 @@ plautusrudens.txt_6.txt
 plautusstichus.txt_0.txt
 plautusstichus.txt_1.txt
 plautusstichus.txt_2.txt
+plautusstichus.txt_3.txt
 plautustrinummus.txt_0.txt
 plautustrinummus.txt_1.txt
 plautustrinummus.txt_2.txt
@@ -6804,6 +7101,7 @@ quintilianquintilian.decl.mai2.txt_1.txt
 quintilianquintilian.decl.mai2.txt_2.txt
 quintilianquintilian.decl.mai4.txt_0.txt
 quintilianquintilian.decl.mai4.txt_1.txt
+quintilianquintilian.decl.mai4.txt_2.txt
 quintilianquintilian.decl.mai5.txt_0.txt
 quintilianquintilian.decl.mai5.txt_1.txt
 quintilianquintilian.decl.mai5.txt_2.txt
@@ -6828,6 +7126,7 @@ quintilianquintilian.institutio1.txt_7.txt
 quintilianquintilian.institutio1.txt_8.txt
 quintilianquintilian.institutio1.txt_9.txt
 quintilianquintilian.institutio1.txt_10.txt
+quintilianquintilian.institutio1.txt_11.txt
 quintilianquintilian.institutio10.txt_0.txt
 quintilianquintilian.institutio10.txt_1.txt
 quintilianquintilian.institutio10.txt_2.txt
@@ -6854,6 +7153,7 @@ quintilianquintilian.institutio12.txt_4.txt
 quintilianquintilian.institutio12.txt_5.txt
 quintilianquintilian.institutio12.txt_6.txt
 quintilianquintilian.institutio12.txt_7.txt
+quintilianquintilian.institutio12.txt_8.txt
 quintilianquintilian.institutio2.txt_0.txt
 quintilianquintilian.institutio2.txt_1.txt
 quintilianquintilian.institutio2.txt_2.txt
@@ -6910,6 +7210,7 @@ quintilianquintilian.institutio8.txt_4.txt
 quintilianquintilian.institutio8.txt_5.txt
 quintilianquintilian.institutio8.txt_6.txt
 quintilianquintilian.institutio8.txt_7.txt
+quintilianquintilian.institutio8.txt_8.txt
 quintilianquintilian.institutio9.txt_0.txt
 quintilianquintilian.institutio9.txt_1.txt
 quintilianquintilian.institutio9.txt_2.txt
@@ -6922,6 +7223,7 @@ quintilianquintilian.institutio9.txt_8.txt
 quintilianquintilian.institutio9.txt_9.txt
 quintilianquintilian.institutio9.txt_10.txt
 quintilianquintilian.institutio9.txt_11.txt
+quintilianquintilian.institutio9.txt_12.txt
 senben1.txt_0.txt
 senben1.txt_1.txt
 senben2.txt_0.txt
@@ -6939,6 +7241,7 @@ sensen.agamemnon.txt_0.txt
 sensen.agamemnon.txt_1.txt
 sensen.agamemnon.txt_2.txt
 sensen.apoc.txt_0.txt
+sensen.apoc.txt_1.txt
 sensen.brevita.txt_0.txt
 sensen.brevita.txt_1.txt
 sensen.brevita.txt_2.txt
@@ -6990,6 +7293,7 @@ sensen.medea.txt_2.txt
 sensen.oedipus.txt_0.txt
 sensen.oedipus.txt_1.txt
 sensen.oedipus.txt_2.txt
+sensen.oedipus.txt_3.txt
 sensen.otio.txt_0.txt
 sensen.phaedra.txt_0.txt
 sensen.phaedra.txt_1.txt
@@ -6999,7 +7303,7 @@ sensen.phoen.txt_0.txt
 sensen.phoen.txt_1.txt
 sensen.prov.txt_0.txt
 sensen.prov.txt_1.txt
-sensen.proverbs.txt.txt
+sensen.proverbs.txt_0.txt
 sensen.qn1.txt_0.txt
 sensen.qn1.txt_1.txt
 sensen.qn1.txt_2.txt
@@ -7054,6 +7358,7 @@ senseneca.ep11-13.txt_1.txt
 senseneca.ep11-13.txt_2.txt
 senseneca.ep11-13.txt_3.txt
 senseneca.ep11-13.txt_4.txt
+senseneca.ep11-13.txt_5.txt
 senseneca.ep14-15.txt_0.txt
 senseneca.ep14-15.txt_1.txt
 senseneca.ep14-15.txt_2.txt
@@ -7117,6 +7422,7 @@ senseneca.ep9.txt_2.txt
 senseneca.ep9.txt_3.txt
 siliussilius1.txt_0.txt
 siliussilius1.txt_1.txt
+siliussilius1.txt_2.txt
 siliussilius10.txt_0.txt
 siliussilius10.txt_1.txt
 siliussilius11.txt_0.txt
@@ -7127,8 +7433,10 @@ siliussilius12.txt_2.txt
 siliussilius13.txt_0.txt
 siliussilius13.txt_1.txt
 siliussilius13.txt_2.txt
+siliussilius13.txt_3.txt
 siliussilius14.txt_0.txt
 siliussilius14.txt_1.txt
+siliussilius14.txt_2.txt
 siliussilius15.txt_0.txt
 siliussilius15.txt_1.txt
 siliussilius15.txt_2.txt
@@ -7148,6 +7456,7 @@ siliussilius4.txt_1.txt
 siliussilius4.txt_2.txt
 siliussilius5.txt_0.txt
 siliussilius5.txt_1.txt
+siliussilius5.txt_2.txt
 siliussilius6.txt_0.txt
 siliussilius6.txt_1.txt
 siliussilius6.txt_2.txt
@@ -7156,6 +7465,7 @@ siliussilius7.txt_1.txt
 siliussilius7.txt_2.txt
 siliussilius8.txt_0.txt
 siliussilius8.txt_1.txt
+siliussilius8.txt_2.txt
 siliussilius9.txt_0.txt
 siliussilius9.txt_1.txt
 statiusachilleid1.txt_0.txt
@@ -7174,6 +7484,7 @@ statiussilvae3.txt_1.txt
 statiussilvae3.txt_2.txt
 statiussilvae4.txt_0.txt
 statiussilvae4.txt_1.txt
+statiussilvae4.txt_2.txt
 statiussilvae5.txt_0.txt
 statiussilvae5.txt_1.txt
 statiussilvae5.txt_2.txt
@@ -7215,6 +7526,7 @@ statiustheb8.txt_2.txt
 statiustheb9.txt_0.txt
 statiustheb9.txt_1.txt
 statiustheb9.txt_2.txt
+statiustheb9.txt_3.txt
 suetoniussuet.aug.txt_0.txt
 suetoniussuet.aug.txt_1.txt
 suetoniussuet.aug.txt_2.txt
@@ -7224,6 +7536,7 @@ suetoniussuet.aug.txt_5.txt
 suetoniussuet.aug.txt_6.txt
 suetoniussuet.aug.txt_7.txt
 suetoniussuet.aug.txt_8.txt
+suetoniussuet.aug.txt_9.txt
 suetoniussuet.caesar.txt_0.txt
 suetoniussuet.caesar.txt_1.txt
 suetoniussuet.caesar.txt_2.txt
@@ -7275,6 +7588,7 @@ tacitustac.agri.txt_0.txt
 tacitustac.agri.txt_1.txt
 tacitustac.agri.txt_2.txt
 tacitustac.agri.txt_3.txt
+tacitustac.agri.txt_4.txt
 tacitustac.ann1.txt_0.txt
 tacitustac.ann1.txt_1.txt
 tacitustac.ann1.txt_2.txt
@@ -7282,6 +7596,7 @@ tacitustac.ann1.txt_3.txt
 tacitustac.ann1.txt_4.txt
 tacitustac.ann1.txt_5.txt
 tacitustac.ann1.txt_6.txt
+tacitustac.ann1.txt_7.txt
 tacitustac.ann11.txt_0.txt
 tacitustac.ann11.txt_1.txt
 tacitustac.ann11.txt_2.txt
@@ -7300,6 +7615,7 @@ tacitustac.ann14.txt_1.txt
 tacitustac.ann14.txt_2.txt
 tacitustac.ann14.txt_3.txt
 tacitustac.ann14.txt_4.txt
+tacitustac.ann14.txt_5.txt
 tacitustac.ann15.txt_0.txt
 tacitustac.ann15.txt_1.txt
 tacitustac.ann15.txt_2.txt
@@ -7343,6 +7659,7 @@ tacitustac.dialogus.txt_5.txt
 tacitustac.ger.txt_0.txt
 tacitustac.ger.txt_1.txt
 tacitustac.ger.txt_2.txt
+tacitustac.ger.txt_3.txt
 tacitustac.hist1.txt_0.txt
 tacitustac.hist1.txt_1.txt
 tacitustac.hist1.txt_2.txt
@@ -7396,6 +7713,7 @@ tertulliantertullian.anima.txt_12.txt
 tertulliantertullian.anima.txt_13.txt
 tertulliantertullian.anima.txt_14.txt
 tertulliantertullian.anima.txt_15.txt
+tertulliantertullian.anima.txt_16.txt
 tertulliantertullian.apol.txt_0.txt
 tertulliantertullian.apol.txt_1.txt
 tertulliantertullian.apol.txt_2.txt
@@ -7409,6 +7727,7 @@ tertulliantertullian.apol.txt_9.txt
 tertulliantertullian.apol.txt_10.txt
 tertulliantertullian.apol.txt_11.txt
 tertulliantertullian.apol.txt_12.txt
+tertulliantertullian.apol.txt_13.txt
 tertulliantertullian.baptismo.txt_0.txt
 tertulliantertullian.baptismo.txt_1.txt
 tertulliantertullian.baptismo.txt_2.txt
@@ -7461,6 +7780,7 @@ tertulliantertullian.marcionem1.txt_2.txt
 tertulliantertullian.marcionem1.txt_3.txt
 tertulliantertullian.marcionem1.txt_4.txt
 tertulliantertullian.marcionem1.txt_5.txt
+tertulliantertullian.marcionem1.txt_6.txt
 tertulliantertullian.marcionem2.txt_0.txt
 tertulliantertullian.marcionem2.txt_1.txt
 tertulliantertullian.marcionem2.txt_2.txt
@@ -7497,6 +7817,7 @@ tertulliantertullian.marcionem4.txt_18.txt
 tertulliantertullian.marcionem4.txt_19.txt
 tertulliantertullian.marcionem4.txt_20.txt
 tertulliantertullian.marcionem4.txt_21.txt
+tertulliantertullian.marcionem4.txt_22.txt
 tertulliantertullian.marcionem5.txt_0.txt
 tertulliantertullian.marcionem5.txt_1.txt
 tertulliantertullian.marcionem5.txt_2.txt
@@ -7523,11 +7844,13 @@ tertulliantertullian.nationes2.txt_0.txt
 tertulliantertullian.nationes2.txt_1.txt
 tertulliantertullian.nationes2.txt_2.txt
 tertulliantertullian.nationes2.txt_3.txt
+tertulliantertullian.nationes2.txt_4.txt
 tertulliantertullian.oratione.txt_0.txt
 tertulliantertullian.oratione.txt_1.txt
 tertulliantertullian.oratione.txt_2.txt
 tertulliantertullian.paen.txt_0.txt
 tertulliantertullian.paen.txt_1.txt
+tertulliantertullian.paen.txt_2.txt
 tertulliantertullian.pallio.txt_0.txt
 tertulliantertullian.pallio.txt_1.txt
 tertulliantertullian.patientia.txt_0.txt
@@ -7538,6 +7861,7 @@ tertulliantertullian.praescrip.txt_1.txt
 tertulliantertullian.praescrip.txt_2.txt
 tertulliantertullian.praescrip.txt_3.txt
 tertulliantertullian.praescrip.txt_4.txt
+tertulliantertullian.praescrip.txt_5.txt
 tertulliantertullian.praxean.txt_0.txt
 tertulliantertullian.praxean.txt_1.txt
 tertulliantertullian.praxean.txt_2.txt
@@ -7546,6 +7870,7 @@ tertulliantertullian.praxean.txt_4.txt
 tertulliantertullian.praxean.txt_5.txt
 tertulliantertullian.praxean.txt_6.txt
 tertulliantertullian.praxean.txt_7.txt
+tertulliantertullian.praxean.txt_8.txt
 tertulliantertullian.propheta.txt.txt
 tertulliantertullian.pudicitia.txt_0.txt
 tertulliantertullian.pudicitia.txt_1.txt
@@ -7622,6 +7947,7 @@ theodosiustheod04.txt_3.txt
 theodosiustheod04.txt_4.txt
 theodosiustheod04.txt_5.txt
 theodosiustheod04.txt_6.txt
+theodosiustheod04.txt_7.txt
 theodosiustheod05.txt_0.txt
 theodosiustheod05.txt_1.txt
 theodosiustheod05.txt_2.txt
@@ -7650,6 +7976,7 @@ theodosiustheod07.txt_6.txt
 theodosiustheod07.txt_7.txt
 theodosiustheod07.txt_8.txt
 theodosiustheod07.txt_9.txt
+theodosiustheod07.txt_10.txt
 theodosiustheod08.txt_0.txt
 theodosiustheod08.txt_1.txt
 theodosiustheod08.txt_2.txt
@@ -7663,6 +7990,7 @@ theodosiustheod08.txt_9.txt
 theodosiustheod08.txt_10.txt
 theodosiustheod08.txt_11.txt
 theodosiustheod08.txt_12.txt
+theodosiustheod08.txt_13.txt
 theodosiustheod09.txt_0.txt
 theodosiustheod09.txt_1.txt
 theodosiustheod09.txt_2.txt
@@ -7679,6 +8007,7 @@ theodosiustheod09.txt_12.txt
 theodosiustheod09.txt_13.txt
 theodosiustheod09.txt_14.txt
 theodosiustheod09.txt_15.txt
+theodosiustheod09.txt_16.txt
 theodosiustheod10.txt_0.txt
 theodosiustheod10.txt_1.txt
 theodosiustheod10.txt_2.txt
@@ -7687,6 +8016,7 @@ theodosiustheod10.txt_4.txt
 theodosiustheod10.txt_5.txt
 theodosiustheod10.txt_6.txt
 theodosiustheod10.txt_7.txt
+theodosiustheod10.txt_8.txt
 theodosiustheod11.txt_0.txt
 theodosiustheod11.txt_1.txt
 theodosiustheod11.txt_2.txt
@@ -7705,6 +8035,7 @@ theodosiustheod11.txt_14.txt
 theodosiustheod11.txt_15.txt
 theodosiustheod11.txt_16.txt
 theodosiustheod11.txt_17.txt
+theodosiustheod11.txt_18.txt
 theodosiustheod12.txt_0.txt
 theodosiustheod12.txt_1.txt
 theodosiustheod12.txt_2.txt
@@ -7720,6 +8051,7 @@ theodosiustheod12.txt_11.txt
 theodosiustheod12.txt_12.txt
 theodosiustheod12.txt_13.txt
 theodosiustheod12.txt_14.txt
+theodosiustheod12.txt_15.txt
 theodosiustheod13.txt_0.txt
 theodosiustheod13.txt_1.txt
 theodosiustheod13.txt_2.txt
@@ -7753,12 +8085,14 @@ theodosiustheod16.txt_10.txt
 theodosiustheod16.txt_11.txt
 theodosiustheod16.txt_12.txt
 theodosiustheod16.txt_13.txt
+theodosiustheod16.txt_14.txt
 vergilaen1.txt_0.txt
 vergilaen1.txt_1.txt
 vergilaen1.txt_2.txt
 vergilaen10.txt_0.txt
 vergilaen10.txt_1.txt
 vergilaen10.txt_2.txt
+vergilaen10.txt_3.txt
 vergilaen11.txt_0.txt
 vergilaen11.txt_1.txt
 vergilaen11.txt_2.txt
@@ -7782,6 +8116,7 @@ vergilaen5.txt_2.txt
 vergilaen6.txt_0.txt
 vergilaen6.txt_1.txt
 vergilaen6.txt_2.txt
+vergilaen6.txt_3.txt
 vergilaen7.txt_0.txt
 vergilaen7.txt_1.txt
 vergilaen7.txt_2.txt
@@ -7813,6 +8148,7 @@ voraginealexio.txt.txt
 voragineambro.txt.txt
 voragineanast.txt.txt
 voragineandrea.txt_0.txt
+voragineandrea.txt_1.txt
 voragineant.txt.txt
 voragineblas.txt.txt
 voraginechris.txt.txt
@@ -7830,7 +8166,7 @@ voraginepaulo.txt.txt
 voragineseb.txt.txt
 voragineseptem.txt.txt
 voraginesilv.txt.txt
-voraginethom.txt.txt
+voraginethom.txt_0.txt
 voraginevin.txt.txt
 voraginevir.txt.txt
 walterpastourelles.txt.txt
@@ -7854,6 +8190,7 @@ williamtyre10.txt_3.txt
 williamtyre10.txt_4.txt
 williamtyre10.txt_5.txt
 williamtyre10.txt_6.txt
+williamtyre10.txt_7.txt
 williamtyre11.txt_0.txt
 williamtyre11.txt_1.txt
 williamtyre11.txt_2.txt
@@ -7870,6 +8207,7 @@ williamtyre12.txt_2.txt
 williamtyre12.txt_3.txt
 williamtyre12.txt_4.txt
 williamtyre12.txt_5.txt
+williamtyre12.txt_6.txt
 williamtyre13.txt_0.txt
 williamtyre13.txt_1.txt
 williamtyre13.txt_2.txt
@@ -7893,6 +8231,7 @@ williamtyre15.txt_3.txt
 williamtyre15.txt_4.txt
 williamtyre15.txt_5.txt
 williamtyre15.txt_6.txt
+williamtyre15.txt_7.txt
 williamtyre16.txt_0.txt
 williamtyre16.txt_1.txt
 williamtyre16.txt_2.txt
@@ -7921,6 +8260,7 @@ williamtyre18.txt_6.txt
 williamtyre18.txt_7.txt
 williamtyre18.txt_8.txt
 williamtyre18.txt_9.txt
+williamtyre18.txt_10.txt
 williamtyre19.txt_0.txt
 williamtyre19.txt_1.txt
 williamtyre19.txt_2.txt
@@ -7929,6 +8269,7 @@ williamtyre19.txt_4.txt
 williamtyre19.txt_5.txt
 williamtyre19.txt_6.txt
 williamtyre19.txt_7.txt
+williamtyre19.txt_8.txt
 williamtyre2.txt_0.txt
 williamtyre2.txt_1.txt
 williamtyre2.txt_2.txt
@@ -7952,6 +8293,7 @@ williamtyre21.txt_4.txt
 williamtyre21.txt_5.txt
 williamtyre21.txt_6.txt
 williamtyre21.txt_7.txt
+williamtyre21.txt_8.txt
 williamtyre22.txt_0.txt
 williamtyre22.txt_1.txt
 williamtyre22.txt_2.txt
@@ -7983,6 +8325,7 @@ williamtyre5.txt_2.txt
 williamtyre5.txt_3.txt
 williamtyre5.txt_4.txt
 williamtyre5.txt_5.txt
+williamtyre5.txt_6.txt
 williamtyre6.txt_0.txt
 williamtyre6.txt_1.txt
 williamtyre6.txt_2.txt
@@ -8009,6 +8352,7 @@ williamtyre9.txt_1.txt
 williamtyre9.txt_2.txt
 williamtyre9.txt_3.txt
 williamtyre9.txt_4.txt
+williamtyre9.txt_5.txt
 williamtyreprologus.txt.txt
 xylandercaesar.txt_0.txt
 xylandercaesar.txt_1.txt

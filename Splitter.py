@@ -51,7 +51,7 @@ for i in range(len(texts)):
 
 for i in range(len(Names)):
     Names[i] = Names[i].replace('/','')
-os.chdir('/home/sittch/Spring 2023/DLT2/LatLib_100char')
+os.chdir('/home/sittch/Spring 2023/DLT2/LatLib_10kchar')
 for i in range(len(texts)):
     if len(texts[i]) >= 10000:
         # print(Names[i])
