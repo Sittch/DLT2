@@ -1,6 +1,9 @@
-Get python packages installed
-Redirect Paul's filepaths
-Use smaller character spans to increase number of texts
 Reread related papers
+Get python packages installed
+
 Figure out how to set up Google cloud
 Maybe use fewer eras (or more eras/pinpointing metrics with successful results)
+
+Medieval Irish using n-grams
+Old Arabic using image preprocessing
+English newspapers using Google n-grams

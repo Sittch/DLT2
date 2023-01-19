@@ -1,17 +1,22 @@
+import os
 import numpy as np
 import pandas as pd
-import os
-import re
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-data= pd.read_csv('Final_Rank_Balanced.csv', encoding= 'latin_1')
-
-
-data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
-
+from sklearn import preprocessing
 from keras.preprocessing.text import Tokenizer
 from keras_preprocessing.sequence import pad_sequences
+from tensorflow.keras.utils import to_categorical
+from tensorflow import keras
+from tensorflow.keras.models import Sequential
+from keras.layers import Embedding, Dense, Dropout, Flatten, LSTM, SimpleRNN, GRU
+from keras import layers, Input, Model
+from keras import backend as K
+
+
+data= pd.read_csv('Final_Rank_Balanced.csv', encoding= 'latin_1')
+data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
+
 
 # data = data.sample(frac=1,random_state=1).reset_index()
 # print(data.head())
@@ -21,7 +26,6 @@ from keras_preprocessing.sequence import pad_sequences
 texts = data['Text']
 labels = data['Target']
 
-from tensorflow.keras.utils import to_categorical
 labels = to_categorical(labels)
 
 print("number of texts :" , len(texts))
@@ -32,9 +36,6 @@ for i in range(len(texts)):
     with open(texts[i],'r') as f:
         New_texts = f.read()
     texts[i] = New_texts[:500]
-
-from sklearn import preprocessing
-import numpy as np
 
 print(texts[1])
 
@@ -81,18 +82,6 @@ from sklearn.model_selection import train_test_split
 X_train, x_test, Y_train, y_test = train_test_split(seqs, labels, test_size=0.3, shuffle=True)
 
 #Using Neural Networks
-from tensorflow import keras
-from tensorflow.keras.models import Sequential
-from keras.layers import Embedding, Dense, Dropout, LSTM, SimpleRNN, GRU
-
-from keras.models import Sequential
-from keras.layers import Dense, Flatten
-# from keras.layers.embeddings import Embedding
-
-from keras import layers, Input, Model
-
-
-from keras import backend as K
 
 def recall_m(y_true, y_pred):
     true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
@@ -171,9 +160,6 @@ x = layers.Bidirectional(layers.LSTM(1024))(x)
 # before = layers.Dense(20, activation="relu")(x)
 preds = layers.Dense(9, activation="softmax")(x)
 model = Model(int_sequences_input, preds)
-
-
-
 
 
 # summarize the model

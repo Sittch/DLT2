@@ -51,13 +51,13 @@ for i in range(len(texts)):
 
 for i in range(len(Names)):
     Names[i] = Names[i].replace('/','')
-os.chdir('/home/sittch/Spring 2023/DLT2/LatLib_10kchar')
+os.chdir('/home/sittch/Spring2023/DLT2/LatLib_1000char')
 for i in range(len(texts)):
-    if len(texts[i]) >= 10000:
+    if len(texts[i]) >= 1000:
         # print(Names[i])
-        chunk_lim = len(texts[i])//10000
+        chunk_lim = len(texts[i])//1000
         # print(chunk_lim)
-        chunk_text = [''.join(item) for item in zip(*[iter(texts[i])]*10000)]
+        chunk_text = [''.join(item) for item in zip(*[iter(texts[i])]*1000)]
         # print(chunk_text[0])
         for j in range(chunk_lim):
             with open(f"{Names[i]}_{j}.txt", "w") as text_file:
@@ -70,7 +70,7 @@ for i in range(len(texts)):
 
 
 # import csv
-with open(os.path.join('/home/sittch/Spring 2023/DLT2','Final_Rank.csv'),'w') as f:
+with open(os.path.join('/home/sittch/Spring2023/DLT2','Final_Rank.csv'),'w') as f:
     for line in UWU:
         f.write(line)
         f.write('\n')
