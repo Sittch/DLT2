@@ -1,9 +1,5 @@
-Reread related papers
-Get python packages installed
+Set up verbs.colorado.edu ssh
 
-Figure out how to set up Google cloud
 Maybe use fewer eras (or more eras/pinpointing metrics with successful results)
+Using n-grams like Medieval Irish/newspapers?
 
-Medieval Irish using n-grams
-Old Arabic using image preprocessing
-English newspapers using Google n-grams

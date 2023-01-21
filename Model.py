@@ -4,6 +4,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn import preprocessing
+from sklearn.model_selection import train_test_split
+from sklearn import metrics
+from sklearn.metrics import confusion_matrix, classification_report
 from keras.preprocessing.text import Tokenizer
 from keras_preprocessing.sequence import pad_sequences
 from tensorflow.keras.utils import to_categorical
@@ -12,9 +15,11 @@ from tensorflow.keras.models import Sequential
 from keras.layers import Embedding, Dense, Dropout, Flatten, LSTM, SimpleRNN, GRU
 from keras import layers, Input, Model
 from keras import backend as K
+from keras.models import Sequential
+from keras.initializers import Constant
 
 
-data= pd.read_csv('Final_Rank_Balanced.csv', encoding= 'latin_1')
+data= pd.read_csv('10kCharExport.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
 
@@ -31,7 +36,7 @@ labels = to_categorical(labels)
 print("number of texts :" , len(texts))
 print("number of labels: ", len(labels))
 
-os.chdir('Final-LatLib2')
+os.chdir('LatLib10kchar')
 for i in range(len(texts)):
     with open(texts[i],'r') as f:
         New_texts = f.read()
@@ -78,7 +83,6 @@ for word, i in tokenizer.word_index.items():
 print(embedding_matrix.shape)
 
 #Splitting the data
-from sklearn.model_selection import train_test_split
 X_train, x_test, Y_train, y_test = train_test_split(seqs, labels, test_size=0.3, shuffle=True)
 
 #Using Neural Networks
@@ -99,9 +103,6 @@ def f1_m(y_true, y_pred):
     precision = precision_m(y_true, y_pred)
     recall = recall_m(y_true, y_pred)
     return 2*((precision*recall)/(precision+recall+K.epsilon()))
-
-from sklearn import metrics
-from sklearn.metrics import confusion_matrix, classification_report
 
 
 def gen_conf_matrix(model, x_test, y_test):
@@ -138,14 +139,6 @@ def gen_conf_matrix(model, x_test, y_test):
     plt.show()
 
 EMBEDDING_SIZE = 300
-
-
-from keras.models import Sequential
-from keras.layers import Dense, Flatten
-# from keras.layers.embeddings import Embedding
-
-from keras.layers import Embedding
-from keras.initializers import Constant
 
 
 embedding_layer = Embedding(vocab_size, EMBEDDING_SIZE,
