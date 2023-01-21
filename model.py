@@ -19,7 +19,7 @@ from keras.models import Sequential
 from keras.initializers import Constant
 
 
-data= pd.read_csv('10kCharExport_Balanced.csv', encoding= 'latin_1')
+data= pd.read_csv('1000CharExport_Balanced.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
 
@@ -36,7 +36,7 @@ labels = to_categorical(labels)
 print("number of texts :" , len(texts))
 print("number of labels: ", len(labels))
 
-os.chdir('LatLib_10kchar')
+os.chdir('LatLib_1000char')
 for i in range(len(texts)):
     with open(texts[i],'r') as f:
         New_texts = f.read()
@@ -135,7 +135,7 @@ def gen_conf_matrix(model, x_test, y_test):
 
     plt.title('Refined Confusion Matrix', fontsize=20)
 
-    plt.savefig('Final_20epoch_10kch_punctuate.png')
+    plt.savefig('Final_20epoch_1000ch_punctuate.png')
     plt.show()
 
 EMBEDDING_SIZE = 300
