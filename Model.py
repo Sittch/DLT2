@@ -36,7 +36,7 @@ labels = to_categorical(labels)
 print("number of texts :" , len(texts))
 print("number of labels: ", len(labels))
 
-os.chdir('LatLib10kchar')
+os.chdir('LatLib_10kchar')
 for i in range(len(texts)):
     with open(texts[i],'r') as f:
         New_texts = f.read()
