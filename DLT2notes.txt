@@ -1,0 +1,28 @@
+Score of the total test data
+Test loss: 2.0059
+Test accuracy: 16.13
+Test f1_score: 0.09
+Test precision: 0.74
+Test recall: 0.05
+
+10kchar, 50 epochs, punctuated
+
+
+Score of the total test data
+Test loss: 2.0240
+Test accuracy: 15.62
+Test f1_score: 0.07
+Test precision: 0.70
+Test recall: 0.04
+
+10kchar, 100 epochs, punctuated
+
+1000char, 20 epochs, punctuated, Verbnet
+1205/1205 [==============================] - 3630s 3s/step - loss: 0.4600 - accuracy: 0.8348 - f1_m: 0.8483 - precision_m: 0.9042 - recall_m: 0.8042
+Score of the total test data
+Test loss: 2.4499
+Test accuracy: 45.61
+Test f1_score: 0.46
+Test precision: 0.49
+Test recall: 0.43
+client_loop: send disconnect: Broken pipe
