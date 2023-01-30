@@ -3,19 +3,29 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import confusion_matrix
+from sklearn import metrics
+from sklearn.metrics import confusion_matrix, classification_report
 from keras.preprocessing.text import Tokenizer
 from keras_preprocessing.sequence import pad_sequences
 from tensorflow.keras.utils import to_categorical
-from keras.layers import Embedding
+from tensorflow import keras
+from tensorflow.keras.models import Sequential
+from keras.layers import Embedding, Dense, Dropout, Flatten, LSTM, SimpleRNN, GRU
 from keras import layers, Input, Model
 from keras import backend as K
+from keras.models import Sequential
 from keras.initializers import Constant
 
 
 data= pd.read_csv('1000CharExport_Balanced.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
+
+
+# data = data.sample(frac=1,random_state=1).reset_index()
+# print(data.head())
+# print(shuffled.head())
 
 
 texts = data['Text']
@@ -27,12 +37,12 @@ print("number of texts :" , len(texts))
 print("number of labels: ", len(labels))
 
 os.chdir('LatLib_1000char')
-# for i in range(len(texts)):
-#     with open(texts[i],'r') as f:
-#         New_texts = f.read()
-#     texts[i] = New_texts[:500]
+for i in range(len(texts)):
+    with open(texts[i],'r') as f:
+        New_texts = f.read()
+    texts[i] = New_texts[:500]
 
-# print(texts[1])
+print(texts[1])
 
 
 tokenizer = Tokenizer()
@@ -111,7 +121,7 @@ def gen_conf_matrix(model, x_test, y_test):
     # Plot confusion matrix in a beautiful manner
     fig = plt.figure(figsize=(6, 6))
     ax= plt.subplot()
-    sns.heatmap(cm, annot=True, ax = ax, fmt = 'g') #annot=True to annotate cells
+    sns.heatmap(cm, annot=True, ax = ax, fmt = 'g'); #annot=True to annotate cells
     # labels, title and ticks
     ax.set_xlabel('Predicted', fontsize=20)
     ax.xaxis.set_label_position('bottom')
@@ -132,7 +142,7 @@ EMBEDDING_SIZE = 300
 
 
 embedding_layer = Embedding(vocab_size, EMBEDDING_SIZE,
-                            embeddings_initializer= Constant(embedding_matrix),
+                            embeddings_initializer= Constant(embedding_matrix), 
                             trainable=False,
 )
 
@@ -147,12 +157,16 @@ model = Model(int_sequences_input, preds)
 
 # summarize the model
 model.summary()
-model.compile(loss = 'categorical_crossentropy',
-              optimizer ='adam',
-              metrics = ["accuracy",f1_m,precision_m, recall_m]
-              )
+# model.compile(loss = 'binary_crossentropy', optimizer ='adam',metrics = ["accuracy",f1_m,precision_m, recall_m])
+#optimizer = 'SGD'
+model.compile(loss = 'categorical_crossentropy', optimizer ='adam',metrics = ["accuracy",f1_m,precision_m, recall_m])
 
 #9. Train and save the best model
+# from keras.callbacks import ModelCheckpoint
+# filepath = "LSTM_EM_model.h1"
+# checkpoint = ModelCheckpoint(filepath, monitor = "loss", mode = "min", verbose =1, save_best_only = True)
+
+# history = model.fit(X_train, Y_train, epochs = 10, batch_size = 100, callbacks = [checkpoint])
 
 history = model.fit(X_train, Y_train, epochs = 20, batch_size = 32)
 
