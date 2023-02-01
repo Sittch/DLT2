@@ -19,7 +19,7 @@ from keras.models import Sequential
 from keras.initializers import Constant
 
 
-data= pd.read_csv('1000CharExport_Balanced.csv', encoding= 'latin_1')
+data= pd.read_csv('10kCharExport_Balanced.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
 
@@ -36,7 +36,7 @@ labels = to_categorical(labels)
 print("number of texts :" , len(texts))
 print("number of labels: ", len(labels))
 
-os.chdir('LatLib_1000char')
+os.chdir('LatLib_10kchar')
 for i in range(len(texts)):
     with open(texts[i],'r') as f:
         New_texts = f.read()
@@ -135,7 +135,7 @@ def gen_conf_matrix(model, x_test, y_test):
 
     plt.title('Refined Confusion Matrix', fontsize=20)
 
-    plt.savefig('Final_50epoch_1000ch_punctuate.png')
+    plt.savefig('Final_100epoch_10kch_punctuate.png')
     plt.show()
 
 EMBEDDING_SIZE = 300
@@ -168,7 +168,7 @@ model.compile(loss = 'categorical_crossentropy', optimizer ='adam',metrics = ["a
 
 # history = model.fit(X_train, Y_train, epochs = 10, batch_size = 100, callbacks = [checkpoint])
 
-history = model.fit(X_train, Y_train, epochs = 50, batch_size = 32)
+history = model.fit(X_train, Y_train, epochs = 100, batch_size = 32)
 
 #Full
 print("Score of the total test data")
