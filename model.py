@@ -90,7 +90,8 @@ print(embedding_matrix.shape)
 #Splitting the data
 X_train, x_test, Y_train, y_test = train_test_split(seqs, labels, test_size=0.3, shuffle=True)
 under_sampler = RandomUnderSampler(random_state=42)
-X_train_bal, x_test_bal, Y_train_bal, y_test_bal = under_sampler.fit_resample(X_train, x_test, Y_train, y_test)
+X_train_bal, Y_train_bal = under_sampler.fit_resample(X_train, Y_train)
+x_test_bal, y_test_bal = under_sampler.fit_resample(x_test, y_test)
 
 #Using Neural Networks
 
