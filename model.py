@@ -92,8 +92,8 @@ X_train, x_test, Y_train, y_test = train_test_split(seqs, labels, test_size=0.3,
 under_sampler = RandomUnderSampler(random_state=42)
 X_train_bal, Y_train_bal = under_sampler.fit_resample(X_train, Y_train)
 x_test_bal, y_test_bal = under_sampler.fit_resample(x_test, y_test)
-print(shape(X_train),shape(Y_train))
-print(shape(x_test), shape(y_test))
+#print(shape(X_train),shape(Y_train))
+#print(shape(x_test), shape(y_test))
 
 #Using Neural Networks
 
