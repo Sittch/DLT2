@@ -20,7 +20,7 @@ from keras.initializers import Constant
 from imblearn.under_sampling import RandomUnderSampler
 
 
-data= pd.read_csv('10kCharExport_Imb_Unpunc.csv', encoding= 'latin_1')
+data= pd.read_csv('1000CharExport_Imb_Unpunc.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
 under_sampler = RandomUnderSampler(random_state=42)
