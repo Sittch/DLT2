@@ -17,15 +17,23 @@ from keras import layers, Input, Model
 from keras import backend as K
 from keras.models import Sequential
 from keras.initializers import Constant
+from imblearn.under_sampling import RandomUnderSampler
 
 
-data= pd.read_csv('10kCharExport_Balanced.csv', encoding= 'latin_1')
+data= pd.read_csv('10kCharExport_Imb_Unpunc.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
+under_sampler = RandomUnderSampler(random_state=42)
+data = under_sampler.fit_resample(data)
 
-# data = data.sample(frac=1,random_state=1).reset_index()
-# print(data.head())
-# print(shuffled.head())
+
+# sampler = data.imbalance.under_sampling.ClusterCentroids()
+# sampler
+# ClusterCentroids(n_jobs=-1, random_state=None, ratio='auto')
+
+# sampled = data.fit_sample(sampler)
+# sampled
+# sampled.target.value_counts()
 
 
 texts = data['Text']
@@ -35,8 +43,9 @@ labels = to_categorical(labels)
 
 print("number of texts :" , len(texts))
 print("number of labels: ", len(labels))
+print(Counts(labels))
 
-os.chdir('LatLib_10kchar')
+os.chdir('LatLib_1000char')
 for i in range(len(texts)):
     with open(texts[i],'r') as f:
         New_texts = f.read()
@@ -135,7 +144,7 @@ def gen_conf_matrix(model, x_test, y_test):
 
     plt.title('Refined Confusion Matrix', fontsize=20)
 
-    plt.savefig('Final_10epoch_10kch_punctuate.png')
+    plt.savefig('Final_20epoch_1000ch_unpunc.png')
     plt.show()
 
 EMBEDDING_SIZE = 300
@@ -168,7 +177,7 @@ model.compile(loss = 'categorical_crossentropy', optimizer ='adam',metrics = ["a
 
 # history = model.fit(X_train, Y_train, epochs = 10, batch_size = 100, callbacks = [checkpoint])
 
-history = model.fit(X_train, Y_train, epochs = 10, batch_size = 32)
+history = model.fit(X_train, Y_train, epochs = 20, batch_size = 32)
 
 #Full
 print("Score of the total test data")
