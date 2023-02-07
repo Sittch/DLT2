@@ -23,9 +23,6 @@ from imblearn.under_sampling import RandomUnderSampler
 data= pd.read_csv('1000CharExport_Imb_Unpunc.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
-under_sampler = RandomUnderSampler(random_state=42)
-data = under_sampler.fit_resample(data)
-
 
 # sampler = data.imbalance.under_sampling.ClusterCentroids()
 # sampler
@@ -43,7 +40,6 @@ labels = to_categorical(labels)
 
 print("number of texts :" , len(texts))
 print("number of labels: ", len(labels))
-print(Counts(labels))
 
 os.chdir('LatLib_1000char')
 for i in range(len(texts)):
@@ -93,6 +89,8 @@ print(embedding_matrix.shape)
 
 #Splitting the data
 X_train, x_test, Y_train, y_test = train_test_split(seqs, labels, test_size=0.3, shuffle=True)
+under_sampler = RandomUnderSampler(random_state=42)
+X_train_bal, x_test_bal, Y_train_bal, y_test_bal = under_sampler.fit_resample(X_train, x_test, Y_train, y_test)
 
 #Using Neural Networks
 
@@ -114,12 +112,12 @@ def f1_m(y_true, y_pred):
     return 2*((precision*recall)/(precision+recall+K.epsilon()))
 
 
-def gen_conf_matrix(model, x_test, y_test):
+def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
-    predictions = model.predict(x_test, steps=len(x_test), verbose=0)
+    predictions = model.predict(x_test_bal, steps=len(x_test_bal), verbose=0)
     y_pred = np.argmax(predictions, axis=-1)
 
-    y_true=np.argmax(y_test, axis=-1)
+    y_true=np.argmax(y_test_bal, axis=-1)
 
     cm = confusion_matrix(y_true, y_pred)
 
@@ -177,15 +175,15 @@ model.compile(loss = 'categorical_crossentropy', optimizer ='adam',metrics = ["a
 
 # history = model.fit(X_train, Y_train, epochs = 10, batch_size = 100, callbacks = [checkpoint])
 
-history = model.fit(X_train, Y_train, epochs = 20, batch_size = 32)
+history = model.fit(X_train_bal, Y_train_bal, epochs = 20, batch_size = 32)
 
 #Full
 print("Score of the total test data")
-score = model.evaluate(x_test, y_test, verbose = 0)
+score = model.evaluate(x_test_bal, y_test_bal, verbose = 0)
 # loss, accuracy, f1_score, precision, recall
 print("Test loss: %.4f" % score[0])
 print("Test accuracy: %.2f" % (score[1] * 100.0))
 print("Test f1_score: %.2f" % (score[2]))
 print("Test precision: %.2f" % (score[3]))
 print("Test recall: %.2f" % (score[4]))
-gen_conf_matrix(model, x_test, y_test)
+gen_conf_matrix(model, x_test_bal, y_test_bal)
