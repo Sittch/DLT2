@@ -42,3 +42,11 @@ Test accuracy: 54.01
 Test f1_score: 0.54
 Test precision: 0.55
 Test recall: 0.53
+
+1000char, 10 epochs, unpunc, GCP, pandshuffle
+Score of the total test data
+Test loss: 2.5091
+Test accuracy: 51.15
+Test f1_score: 0.51
+Test precision: 0.53
+Test recall: 0.49
