@@ -126,7 +126,7 @@ def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
     ## Get Class Labels
 
-    class_names = [1,2,3,4,5,6,7,8]
+    class_names = [1,2,3,4,5,6,7]
 
     # Plot confusion matrix in a beautiful manner
     fig = plt.figure(figsize=(6, 6))
@@ -161,7 +161,7 @@ embedded_sequences = embedding_layer(int_sequences_input)
 x = layers.Bidirectional(layers.LSTM(1024, return_sequences=True))(embedded_sequences)
 x = layers.Bidirectional(layers.LSTM(1024))(x)
 # before = layers.Dense(20, activation="relu")(x)
-preds = layers.Dense(8, activation="softmax")(x)
+preds = layers.Dense(7, activation="softmax")(x)
 model = Model(int_sequences_input, preds)
 
 
