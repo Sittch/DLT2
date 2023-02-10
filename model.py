@@ -20,7 +20,7 @@ from keras.initializers import Constant
 from imblearn.under_sampling import RandomUnderSampler
 
 
-data= pd.read_csv('1000CharExport_Imb_Unpunc_NoModern.csv', encoding= 'latin_1')
+data= pd.read_csv('1000CharExport_Imb_Unpunc_6eras.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
 
@@ -126,7 +126,7 @@ def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
     ## Get Class Labels
 
-    class_names = [1,2,3,4,5,6,7]
+    class_names = [1,2,3,4,5,6]
 
     # Plot confusion matrix in a beautiful manner
     fig = plt.figure(figsize=(6, 6))
@@ -145,7 +145,7 @@ def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
     plt.title('Refined Confusion Matrix', fontsize=20)
 
-    plt.savefig('Final_10epoch_1000ch_unpunc_NoModern.png')
+    plt.savefig('Final_10epoch_1000ch_unpunc_NoMod_3-2merge.png')
     plt.show()
 
 EMBEDDING_SIZE = 300
@@ -161,7 +161,7 @@ embedded_sequences = embedding_layer(int_sequences_input)
 x = layers.Bidirectional(layers.LSTM(1024, return_sequences=True))(embedded_sequences)
 x = layers.Bidirectional(layers.LSTM(1024))(x)
 # before = layers.Dense(20, activation="relu")(x)
-preds = layers.Dense(7, activation="softmax")(x)
+preds = layers.Dense(6, activation="softmax")(x)
 model = Model(int_sequences_input, preds)
 
 
