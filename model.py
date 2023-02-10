@@ -145,7 +145,7 @@ def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
     plt.title('Refined Confusion Matrix', fontsize=20)
 
-    plt.savefig('Final_10epoch_1000ch_unpunc_NoMod_3-2merge.png')
+    plt.savefig('Final_5epoch_1000ch_unpunc_NoMod_3-2merge.png')
     plt.show()
 
 EMBEDDING_SIZE = 300
@@ -178,7 +178,7 @@ model.compile(loss = 'categorical_crossentropy', optimizer ='adam',metrics = ["a
 
 # history = model.fit(X_train, Y_train, epochs = 10, batch_size = 100, callbacks = [checkpoint])
 
-history = model.fit(X_train_bal, Y_train_bal, epochs = 10, batch_size = 32)
+history = model.fit(X_train_bal, Y_train_bal, epochs = 5, batch_size = 32)
 
 #Full
 print("Score of the total test data")
