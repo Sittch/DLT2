@@ -5,9 +5,9 @@ import pandas as pd
 
 def RegEX(string):
     file_1_str = re.sub(r"[([{})]]", "", string) #removing brackets
-    #file_1_str = re.sub("\d+", "", file_1_str) #removing numbers
+    file_1_str = re.sub("\d+", "", file_1_str) #removing numbers
     file_1_str = re.sub(r"\s+", " ", file_1_str)#removing tabs
-    #file_1_str = re.sub(r'[^\w\s]', '', file_1_str)#remove punc
+    file_1_str = re.sub(r'[^\w\s]', '', file_1_str)#remove punc
     return re.sub('\u0304', '', file_1_str)
 
 #Change to smaller chunks/upsampled dates csv file
@@ -51,7 +51,7 @@ for i in range(len(texts)):
 
 for i in range(len(Names)):
     Names[i] = Names[i].replace('/','')
-os.chdir('/home/sittch/Spring2023/DLT2/LatLib_1000char')
+os.chdir('/home/paul/DLT2/LatLib_1000char_unpunc')
 for i in range(len(texts)):
     if len(texts[i]) >= 1000:
         # print(Names[i])
@@ -70,7 +70,7 @@ for i in range(len(texts)):
 
 
 # import csv
-with open(os.path.join('/home/sittch/Spring2023/DLT2','Final_Rank.csv'),'w') as f:
+with open(os.path.join('/home/paul/DLT2','Final_Rank.csv'),'w') as f:
     for line in UWU:
         f.write(line)
         f.write('\n')

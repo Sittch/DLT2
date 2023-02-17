@@ -17,15 +17,20 @@ from keras import layers, Input, Model
 from keras import backend as K
 from keras.models import Sequential
 from keras.initializers import Constant
+from imblearn.under_sampling import RandomUnderSampler
 
 
-data= pd.read_csv('10kCharExport_Balanced.csv', encoding= 'latin_1')
+data= pd.read_csv('1000CharExport_Imb_Unpunc_6eras.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
 
-# data = data.sample(frac=1,random_state=1).reset_index()
-# print(data.head())
-# print(shuffled.head())
+# sampler = data.imbalance.under_sampling.ClusterCentroids()
+# sampler
+# ClusterCentroids(n_jobs=-1, random_state=None, ratio='auto')
+
+# sampled = data.fit_sample(sampler)
+# sampled
+# sampled.target.value_counts()
 
 
 texts = data['Text']
@@ -36,7 +41,7 @@ labels = to_categorical(labels)
 print("number of texts :" , len(texts))
 print("number of labels: ", len(labels))
 
-os.chdir('LatLib_10kchar')
+os.chdir('LatLib_1000char_unpunc')
 for i in range(len(texts)):
     with open(texts[i],'r') as f:
         New_texts = f.read()
@@ -84,6 +89,11 @@ print(embedding_matrix.shape)
 
 #Splitting the data
 X_train, x_test, Y_train, y_test = train_test_split(seqs, labels, test_size=0.3, shuffle=True)
+under_sampler = RandomUnderSampler(random_state=42)
+X_train_bal, Y_train_bal = under_sampler.fit_resample(X_train, Y_train)
+x_test_bal, y_test_bal = under_sampler.fit_resample(x_test, y_test)
+#print(shape(X_train),shape(Y_train))
+#print(shape(x_test), shape(y_test))
 
 #Using Neural Networks
 
@@ -105,18 +115,18 @@ def f1_m(y_true, y_pred):
     return 2*((precision*recall)/(precision+recall+K.epsilon()))
 
 
-def gen_conf_matrix(model, x_test, y_test):
+def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
-    predictions = model.predict(x_test, steps=len(x_test), verbose=0)
+    predictions = model.predict(x_test_bal, steps=len(x_test_bal), verbose=0)
     y_pred = np.argmax(predictions, axis=-1)
 
-    y_true=np.argmax(y_test, axis=-1)
+    y_true=np.argmax(y_test_bal, axis=-1)
 
     cm = confusion_matrix(y_true, y_pred)
 
     ## Get Class Labels
 
-    class_names = [1,2,3,4,5,6,7,8]
+    class_names = [1,2,3,4,5,6]
 
     # Plot confusion matrix in a beautiful manner
     fig = plt.figure(figsize=(6, 6))
@@ -135,7 +145,7 @@ def gen_conf_matrix(model, x_test, y_test):
 
     plt.title('Refined Confusion Matrix', fontsize=20)
 
-    plt.savefig('Final_10epoch_10kch_punctuate.png')
+    plt.savefig('Final_5epoch_1000ch_unpunc_NoMod_3-2merge.png')
     plt.show()
 
 EMBEDDING_SIZE = 300
@@ -151,7 +161,7 @@ embedded_sequences = embedding_layer(int_sequences_input)
 x = layers.Bidirectional(layers.LSTM(1024, return_sequences=True))(embedded_sequences)
 x = layers.Bidirectional(layers.LSTM(1024))(x)
 # before = layers.Dense(20, activation="relu")(x)
-preds = layers.Dense(9, activation="softmax")(x)
+preds = layers.Dense(6, activation="softmax")(x)
 model = Model(int_sequences_input, preds)
 
 
@@ -168,15 +178,15 @@ model.compile(loss = 'categorical_crossentropy', optimizer ='adam',metrics = ["a
 
 # history = model.fit(X_train, Y_train, epochs = 10, batch_size = 100, callbacks = [checkpoint])
 
-history = model.fit(X_train, Y_train, epochs = 10, batch_size = 32)
+history = model.fit(X_train_bal, Y_train_bal, epochs = 5, batch_size = 32)
 
 #Full
 print("Score of the total test data")
-score = model.evaluate(x_test, y_test, verbose = 0)
+score = model.evaluate(x_test_bal, y_test_bal, verbose = 0)
 # loss, accuracy, f1_score, precision, recall
 print("Test loss: %.4f" % score[0])
 print("Test accuracy: %.2f" % (score[1] * 100.0))
 print("Test f1_score: %.2f" % (score[2]))
 print("Test precision: %.2f" % (score[3]))
 print("Test recall: %.2f" % (score[4]))
-gen_conf_matrix(model, x_test, y_test)
+gen_conf_matrix(model, x_test_bal, y_test_bal)
