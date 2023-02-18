@@ -20,18 +20,8 @@ from keras.initializers import Constant
 from imblearn.under_sampling import RandomUnderSampler
 
 
-data= pd.read_csv('1000CharExport_Imb_Unpunc_6eras.csv', encoding= 'latin_1')
+data= pd.read_csv('1000CharExport_Imb_Unpunc_4eras.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
-
-
-# sampler = data.imbalance.under_sampling.ClusterCentroids()
-# sampler
-# ClusterCentroids(n_jobs=-1, random_state=None, ratio='auto')
-
-# sampled = data.fit_sample(sampler)
-# sampled
-# sampled.target.value_counts()
-
 
 texts = data['Text']
 labels = data['Target']
@@ -64,8 +54,6 @@ seqs = pad_sequences(sequences)
 
 print("data shape: ", seqs.shape)
 print(seqs[1])
-# import sys
-# sys.exit()
 os.chdir('..')
 path_to_word2vec_file = 'Word2Vec.vec'
 
@@ -126,9 +114,9 @@ def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
     ## Get Class Labels
 
-    class_names = [1,2,3,4,5,6]
+    class_names = [1,2,3,4]
 
-    # Plot confusion matrix in a beautiful manner
+    # Plot confusion matrix
     fig = plt.figure(figsize=(6, 6))
     ax= plt.subplot()
     sns.heatmap(cm, annot=True, ax = ax, fmt = 'g'); #annot=True to annotate cells
@@ -145,7 +133,7 @@ def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
     plt.title('Refined Confusion Matrix', fontsize=20)
 
-    plt.savefig('Final_5epoch_1000ch_unpunc_NoMod_3-2merge.png')
+    plt.savefig('Final_15epoch_1000ch_unpunc_4eras.png')
     plt.show()
 
 EMBEDDING_SIZE = 300
@@ -160,15 +148,12 @@ int_sequences_input = Input(shape=(None,), dtype="int64")
 embedded_sequences = embedding_layer(int_sequences_input)
 x = layers.Bidirectional(layers.LSTM(1024, return_sequences=True))(embedded_sequences)
 x = layers.Bidirectional(layers.LSTM(1024))(x)
-# before = layers.Dense(20, activation="relu")(x)
-preds = layers.Dense(6, activation="softmax")(x)
+preds = layers.Dense(4, activation="softmax")(x)
 model = Model(int_sequences_input, preds)
 
 
 # summarize the model
 model.summary()
-# model.compile(loss = 'binary_crossentropy', optimizer ='adam',metrics = ["accuracy",f1_m,precision_m, recall_m])
-#optimizer = 'SGD'
 model.compile(loss = 'categorical_crossentropy', optimizer ='adam',metrics = ["accuracy",f1_m,precision_m, recall_m])
 
 #9. Train and save the best model
@@ -178,7 +163,7 @@ model.compile(loss = 'categorical_crossentropy', optimizer ='adam',metrics = ["a
 
 # history = model.fit(X_train, Y_train, epochs = 10, batch_size = 100, callbacks = [checkpoint])
 
-history = model.fit(X_train_bal, Y_train_bal, epochs = 5, batch_size = 32)
+history = model.fit(X_train_bal, Y_train_bal, epochs = 15, batch_size = 32)
 
 #Full
 print("Score of the total test data")
