@@ -51,7 +51,7 @@ for i in range(len(texts)):
 
 for i in range(len(Names)):
     Names[i] = Names[i].replace('/','')
-os.chdir('/home/paul/DLT2/LatLib_1000char_unpunc')
+os.chdir('/home/sittch/Spring2023/DLT2/LatLib_500char_unpunc')
 for i in range(len(texts)):
     if len(texts[i]) >= 1000:
         # print(Names[i])
@@ -70,7 +70,7 @@ for i in range(len(texts)):
 
 
 # import csv
-with open(os.path.join('/home/paul/DLT2','Final_Rank.csv'),'w') as f:
+with open(os.path.join('/home/sittch/Spring2023/DLT2','Final_Rank.csv'),'w') as f:
     for line in UWU:
         f.write(line)
         f.write('\n')

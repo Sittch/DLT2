@@ -1,5 +1,3 @@
-Run model on balanced datasets
-
 Maybe use fewer eras (or more eras/pinpointing metrics with successful results)
 Using n-grams like Medieval Irish/newspapers?
 
