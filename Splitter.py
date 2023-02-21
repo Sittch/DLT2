@@ -53,11 +53,11 @@ for i in range(len(Names)):
     Names[i] = Names[i].replace('/','')
 os.chdir('/home/sittch/Spring2023/DLT2/LatLib_500char_unpunc')
 for i in range(len(texts)):
-    if len(texts[i]) >= 1000:
+    if len(texts[i]) >= 500:
         # print(Names[i])
-        chunk_lim = len(texts[i])//1000
+        chunk_lim = len(texts[i])//500
         # print(chunk_lim)
-        chunk_text = [''.join(item) for item in zip(*[iter(texts[i])]*1000)]
+        chunk_text = [''.join(item) for item in zip(*[iter(texts[i])]*500)]
         # print(chunk_text[0])
         for j in range(chunk_lim):
             with open(f"{Names[i]}_{j}.txt", "w") as text_file:
