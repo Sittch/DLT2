@@ -114,7 +114,7 @@ def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
     ## Get Class Labels
 
-    class_names = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+    class_names = [3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
 
     # Plot confusion matrix
     fig = plt.figure(figsize=(6, 6))
