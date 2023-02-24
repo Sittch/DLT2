@@ -148,7 +148,7 @@ int_sequences_input = Input(shape=(None,), dtype="int64")
 embedded_sequences = embedding_layer(int_sequences_input)
 x = layers.Bidirectional(layers.LSTM(1024, return_sequences=True))(embedded_sequences)
 x = layers.Bidirectional(layers.LSTM(1024))(x)
-preds = layers.Dense(8, activation="softmax")(x)
+preds = layers.Dense(9, activation="softmax")(x)
 model = Model(int_sequences_input, preds)
 
 
