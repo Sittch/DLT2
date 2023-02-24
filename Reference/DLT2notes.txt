@@ -121,10 +121,34 @@ Test f1_score: 0.50
 Test precision: 0.66
 Test recall: 0.41
 
-1000char, 5 epochs, unpunc, GCP, pandshuffle, 4 epochs
+1000char, 15 epochs, unpunc, GCP, pandshuffle, 4 epochs
 Score of the total test data
 Test loss: 2.5497
 Test accuracy: 57.70
 Test f1_score: 0.58
 Test precision: 0.58
 Test recall: 0.57
+
+1000char, 15 epochs, unpunc, GCP, pandshuffle, centuries
+Score of the total test data
+Test loss: 4.7634
+Test accuracy: 23.63
+Test f1_score: 0.23
+Test precision: 0.25
+Test recall: 0.22
+
+1000char, 15 epochs, unpunc, GCP, pandshuffle, centuries (ended early--no matrix)
+Score of the total test data
+Test loss: 3.0680
+Test accuracy: 30.16
+Test f1_score: 0.28
+Test precision: 0.34
+Test recall: 0.23
+
+1000char, 15 epochs, unpunc, GCP, pandshuffle, centuries
+Score of the total test data
+Test loss: 4.4876
+Test accuracy: 24.84
+Test f1_score: 0.25
+Test precision: 0.27
+Test recall: 0.23

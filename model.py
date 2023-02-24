@@ -20,7 +20,7 @@ from keras.initializers import Constant
 from imblearn.under_sampling import RandomUnderSampler
 
 
-data= pd.read_csv('1000CharExport_Imb_Unpunc_Centuries.csv', encoding= 'latin_1')
+data= pd.read_csv('500CharExport_Imb_Unpunc.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
 texts = data['Text']
@@ -31,7 +31,7 @@ labels = to_categorical(labels)
 print("number of texts :" , len(texts))
 print("number of labels: ", len(labels))
 
-os.chdir('LatLib_1000char_unpunc')
+os.chdir('LatLib_500char_unpunc')
 for i in range(len(texts)):
     with open(texts[i],'r') as f:
         New_texts = f.read()
@@ -114,7 +114,7 @@ def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
     ## Get Class Labels
 
-    class_names = [5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+    class_names = [1,2,3,4,5,6,7,8]
 
     # Plot confusion matrix
     fig = plt.figure(figsize=(6, 6))
@@ -133,7 +133,7 @@ def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
     plt.title('Refined Confusion Matrix', fontsize=20)
 
-    plt.savefig('Final_15epoch_1000ch_unpunc_Centuries.png')
+    plt.savefig('Final_15epoch_500ch_unpunc.png')
     plt.show()
 
 EMBEDDING_SIZE = 300
@@ -148,7 +148,7 @@ int_sequences_input = Input(shape=(None,), dtype="int64")
 embedded_sequences = embedding_layer(int_sequences_input)
 x = layers.Bidirectional(layers.LSTM(1024, return_sequences=True))(embedded_sequences)
 x = layers.Bidirectional(layers.LSTM(1024))(x)
-preds = layers.Dense(16, activation="softmax")(x)
+preds = layers.Dense(8, activation="softmax")(x)
 model = Model(int_sequences_input, preds)
 
 
