@@ -20,7 +20,7 @@ from keras.initializers import Constant
 from imblearn.under_sampling import RandomUnderSampler
 
 
-data= pd.read_csv('1000CharExport_Imb_Unpunc_4eras.csv', encoding= 'latin_1')
+data= pd.read_csv('1000CharExport_Imb_Unpunc_Centuries.csv', encoding= 'latin_1')
 data.rename(columns={'V1': 'Text', 'V2': 'Target'}, inplace=True)
 
 texts = data['Text']
@@ -133,7 +133,7 @@ def gen_conf_matrix(model, x_test_bal, y_test_bal):
 
     plt.title('Refined Confusion Matrix', fontsize=20)
 
-    plt.savefig('Final_15epoch_1000ch_unpunc_4eras.png')
+    plt.savefig('Final_15epoch_1000ch_unpunc_Centuries.png')
     plt.show()
 
 EMBEDDING_SIZE = 300
